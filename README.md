@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+K.+Saini;" />
 </h1>
-<h2 align="center">I'm a passionate Data Scientist from India <img height="27em" width="27em"src="image-2.png"></h2>
+<h2 align="center">I'm a passionate Data Scientist from India <img height="23em" width="25em"src="image-3.png"></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center"><img height="500em" width="900em" src="https://www.lambdatest.com/resources/images/news24.gif"></div>
