@@ -15,9 +15,9 @@
 🤝 I’m looking for help with Image Recognition<br>
 🌱 I’m currently learning Data Science, JavaScript<br>
 💬 Ask me about How crazy I am for Data Science.<br>
-👨‍💻 All of my projects are available at https://github.com/yashksaini-coder?tab=repositories<br>
+👨‍💻 All of my projects are available at [Here!](https://github.com/yashksaini-coder?tab=repositories)<br>
 📝 I regularly write articles on https://medium.com/@yashksaini<br>
-📫 How to reach me ys3853428@gmail.com<br>
+📫 You can reach me [📧](ys3853428@gmail.com) <br>
 ⚡ Fun fact:- The first computer programmer was a woman named Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
