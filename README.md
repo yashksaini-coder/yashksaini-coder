@@ -18,7 +18,7 @@
 👨‍💻 All of my projects are available at [Here!](https://github.com/yashksaini-coder?tab=repositories)<br>
 📝 I regularly write articles on https://medium.com/@yashksaini<br>
 📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
-⚡ **Fun Fact:** The first known computer virus was created as an experiment in 1982 and was called the 'Elk Cloner,' affecting Apple II systems.
+⚡ Fun fact:- The first computer programmer was a woman named Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
