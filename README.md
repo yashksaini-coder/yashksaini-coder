@@ -12,10 +12,10 @@
 
 🔭 I’m currently working on Exploratory Data Analysis of Population using <img src="https://raw.githubusercontent.com/mckinsey/vizro/main/.github/images/Vizro_Github_Banner_Dark_Mode.png" height="20em"> <br>
 👯 I’m looking to collaborate on Real-World Projects, Internships<br>
-🤝 I’m looking for help with Image Recognition<br>
+🤝 I’m looking for help with Machine Learning<br>
 🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
 <br>
-💬 Ask me about How crazy I am for Data Science.<br>
+💬 Ask me about Data Science.<br>
 👨‍💻 All of my projects are available at [Here!](https://github.com/yashksaini-coder?tab=repositories)<br>
 📝 I regularly write articles on https://medium.com/@yashksaini<br>
 📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
