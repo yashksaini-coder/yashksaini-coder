@@ -10,7 +10,7 @@
 
 # 💫 About Me:-
 
-🔭 I’m currently working on Exploratory Data Analysis of Travel data  <img src="https://raw.githubusercontent.com/mckinsey/vizro/main/.github/images/Vizro_Github_Banner_Dark_Mode.png" height="20em"> <br>
+🔭 I’m currently working on Exploratory Data Analysis of Travel data <br>
 👯 I’m looking to collaborate on Real-World Projects, Internships<br>
 🤝 I’m looking for help with Machine Learning<br>
 🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
