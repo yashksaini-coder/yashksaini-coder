@@ -13,7 +13,7 @@
 
 # 💫 About Me:-
 
-🔭 I’m currently working on Bank Loan Default<br>
+🔭 I’m currently working on Lead Case Study -  Capstone Project<br>
 👯 I’m looking to collaborate on Real-World Projects, Internships<br>
 🤝 I’m looking for help with Machine Learning<br>
 🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
