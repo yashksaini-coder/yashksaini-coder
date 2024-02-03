@@ -4,11 +4,11 @@
 
 <h2 align="center">I'm a passionate Data Scientist from India <img height="22em" width="25em"src="image-3.png"></h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<div align="center"><img height="500em" width="900em" src="https://www.lambdatest.com/resources/images/news24.gif"></div>
+<div align="center"><img height="500em" width="900em" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 
 # 💫 About Me:-
@@ -24,19 +24,19 @@
 📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
 ⚡ Fun fact:- The first computer programmer was a woman named Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🏆 Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=yashksaini-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🌐 Socials:-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashksaini) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yashksaini) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lone_wolf_)
 
-## 💻 Tech Stack:-
+## Tech Stack <img height="25rem" width="30rem" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> 
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -68,9 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 Statistics:-
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+# <img height="50rem" width="150rem" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"> Statistics:-
 
 <img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
 
@@ -79,7 +80,7 @@
 ---
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=react-dark"/>
