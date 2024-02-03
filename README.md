@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+K.+Saini;" />
 </h1>
 
-<h2 align="center">I'm a passionate Data Scientist from India <img height="22em" width="25em"src="image-3.png"></h2>
+<h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2>
 
 <img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
@@ -80,16 +80,17 @@
 ---
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p>
 
-<img width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=react-dark"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <h1 align="left">✍️ Dev Quote</h1>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
-<!--
-<h2 align="left">😂 Random Dev Meme</h2>
-<p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p> -->
+<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+<!-- <h2 align="left">😂 Random Dev Meme</h2> -->
+<!-- <p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p>  -->
