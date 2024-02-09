@@ -8,6 +8,8 @@
 <div align="center"><img height="500em" width="900em" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p>
+
 # 💫 About Me:-
 🔭 I’m currently working on Multi-Class-Prediction-of-Obesity-Risk<br>
 👯 I’m looking to collaborate on Real-World Projects, Internships<br>
@@ -23,7 +25,6 @@
 ---
 
 ## 🏆 Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=yashksaini-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
