@@ -10,7 +10,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p>
 
-![Snake animation](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:-
 🔭 I’m currently working on Multi-Class-Prediction-of-Obesity-Risk<br>
