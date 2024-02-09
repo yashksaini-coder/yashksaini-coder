@@ -9,7 +9,6 @@
 
 ---
 # 💫 About Me:-
-
 🔭 I’m currently working on Multi-Class-Prediction-of-Obesity-Risk<br>
 👯 I’m looking to collaborate on Real-World Projects, Internships<br>
 🤝 I’m looking for help with Machine Learning<br>
