@@ -89,6 +89,8 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
 ---
+![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- <h2 align="left">😂 Random Dev Meme</h2> -->
 <!-- <p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p>  -->
