@@ -70,9 +70,8 @@
   
 </div>
 
-<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-# <img height="50rem" width="150rem" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"> Statistics:-
+---
+# Statistics:-
 
 <img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
 
@@ -81,17 +80,16 @@
 ---
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p>
 
-<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=react-dark"/>
 
-<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
+---
 <h1 align="left">✍️ Dev Quote</h1>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
-<img height='5rem' width='1000rem' src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+---
 
 <!-- <h2 align="left">😂 Random Dev Meme</h2> -->
 <!-- <p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p>  -->
