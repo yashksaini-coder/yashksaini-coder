@@ -82,7 +82,7 @@
 ---
 
 <h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
 
 ---
 <h1 align="left">✍️ Dev Quote</h1>
