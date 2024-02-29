@@ -4,7 +4,6 @@
 
 <!-- <h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2> -->
 
----
 <div align="center"><img height="500em" width="900em" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></div>
 
 ---
@@ -34,7 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashksaini) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yashksaini) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/lone_wolf_)
 
-## Tech Stack <img height="25rem" width="30rem" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> 
+## Tech Stack 
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -82,7 +81,7 @@
 ---
 
 <h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
 
 ---
 <h1 align="left">✍️ Dev Quote</h1>
@@ -92,5 +91,5 @@
 <!-- ![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif) -->
 
 
-<!-- <h2 align="left">😂 Random Dev Meme</h2> -->
-<!-- <p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p>  -->
+<h2 align="left">😂 Random Dev Meme</h2> 
+<p align="center"><img align="center" height="400em" width="500em" src='https://randommeme-five.vercel.app/'></p>
