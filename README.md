@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+K.+Saini;" />
 </h1>
 
-<h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2>
+<!-- <h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2> -->
 
 ---
 <div align="center"><img height="500em" width="900em" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></div>
