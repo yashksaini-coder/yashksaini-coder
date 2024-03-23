@@ -82,7 +82,7 @@
 <a href="https://github.com/yashksaini-coder">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
+<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
 </div>
