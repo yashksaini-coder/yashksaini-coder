@@ -78,13 +78,14 @@
 ---
 
 # Statistics:-
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height=200rem>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="280em">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="280em">
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="200rem">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="280em">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="280rem">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="200rem">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="280em" width="957em">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="700rem" >
 --- 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
