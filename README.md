@@ -77,6 +77,15 @@
 
 ---
 
+# Statistics:-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight)
+--- 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
 
@@ -85,7 +94,7 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
 ---
-<!-- ![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif) -->
+![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- <h2 align="left">😂 Random Dev Meme</h2>  -->
