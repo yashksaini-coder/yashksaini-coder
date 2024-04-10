@@ -12,8 +12,8 @@
 
 # 💫 About Me:-
 🔭 I’m currently working on something which i will add :wink:<br>
-👯 I’m looking to collaborate on Real-World Projects, Internships<br>
-🤝 I’m looking for help with Machine Learning<br>
+👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
+🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
 🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
 <br>
 💬 Ask me about Data Science.<br>
