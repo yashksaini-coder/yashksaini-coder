@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+K.+Saini;" />
 </h1> 
-<h1 align='center'><img src='gitartwork.svg'></h1>
+<!-- <h1 align='center'><img src='gitartwork.svg'></h1> -->
 
 <!-- <h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2> -->
 
@@ -78,7 +78,7 @@
 
 ---
 
-# Statistics:-
+<!-- # Statistics:-
 <div align="center">
 <a href="https://github.com/yashksaini-coder">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
@@ -86,7 +86,7 @@
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
-</div>
+</div> -->
 
 --- 
 <h1 align="left">⚡Activity Graph:-</h1>
