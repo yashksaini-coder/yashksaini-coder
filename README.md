@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:-
-🔭 I’m currently working on Learning Agency Lab - Automated Essay Scoring 2.0:wink:<br>
+🔭 I’m currently working on Learning Agency Lab - Automated Essay Scoring 2.0 :wink: <br>
 👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
 🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
 🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
@@ -82,20 +82,19 @@
 
 ---
 
-# Statistics:-
+<!-- # Statistics:-
 <div align="center">
-<!-- <a href="https://github.com/yashksaini-coder">
+<a href="https://github.com/yashksaini-coder">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em"> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
-</div>
+</div> -->
 
 --- 
-<!-- 
 <h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/> -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
 
 ---
 <h1 align="left">✍️ Dev Quote</h1>
