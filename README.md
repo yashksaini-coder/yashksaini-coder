@@ -72,17 +72,21 @@
 
 ---
 # Summary:-
-
+<!--
 <img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
 ---
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p>
+-->
 
+<div>
+    <p><img align="center" height="280rem" width="1000rem" src="https://myreadme.vercel.app/api/embed/yashksaini-coder?panels=userstatistics,toplanguages,commitgraph"></p>
+</div>
 ---
 
-<!-- # Statistics:-
+# Statistics:-
 <div align="center">
 <a href="https://github.com/yashksaini-coder">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
@@ -90,7 +94,7 @@
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
-</div> -->
+</div>
 
 --- 
 <h1 align="left">⚡Activity Graph:-</h1>
