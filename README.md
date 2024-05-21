@@ -84,7 +84,6 @@
 <div>
     <p><img align="center" height="280rem" width="1000rem" src="https://myreadme.vercel.app/api/embed/yashksaini-coder?panels=userstatistics,toplanguages,commitgraph"></p>
 </div>
----
 
 # Statistics:-
 <div align="center">
