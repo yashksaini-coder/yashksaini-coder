@@ -96,7 +96,7 @@
 </div>
 
 <div aign="center">
-    <img src="https://github.com/yashksaini-coder/yashksaini-coder/blob/main/images/stat.svg" alt="Yash K. Saini WakaTime Activity"/>
+    <img src="https://github.com/yashksaini-coder/yashksaini-coder/blob/main/images/stat.svg" alt="Yash K. Saini"/>
 </div>
 
 <!--
