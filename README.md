@@ -95,16 +95,22 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
 </div>
 
+<div aign="center">
+    <img src="https://github.com/yashksaini-coder/yashksaini-coder/blob/main/images/stat.svg" alt="Yash K. Saini WakaTime Activity"/>
+</div>
+
+<!--
 --- 
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>
+-->
 
 ---
 <h1 align="left">✍️ Dev Quote</h1>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
 ---
-<!-- ![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif) -->
+![Snake gif](https://github.com/yashksaini-coder/yashksaini-coder/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- <h2 align="left">😂 Random Dev Meme</h2>  -->
