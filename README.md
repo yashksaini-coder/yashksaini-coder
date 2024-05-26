@@ -74,7 +74,7 @@
 
 <img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
+<p>&nbsp;<img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
 <!-- ---
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p> -->
