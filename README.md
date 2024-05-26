@@ -72,18 +72,17 @@
 ---
 # Summary:-
 
-<img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
+<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=yashksaini-coder>
 
-<p>&nbsp;<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
-
-<!-- ---
-<p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p> -->
+<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
 ---
+<!-- <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p> -->
 
 <!-- <div>
-    <p><img align="center" height="280rem" width="1000rem" src="https://myreadme.vercel.app/api/embed/yashksaini-coder?panels=userstatistics,toplanguages,commitgraph"></p>
+  <p><img align="center" height="280rem" width="1000rem" src="https://myreadme.vercel.app/api/embed/yashksaini-coder?panels=userstatistics,toplanguages,commitgraph"></p>
 </div> -->
+
 
 # Statistics:-
 <div align="center">
