@@ -21,7 +21,7 @@ jobs:
 
           # Options
           user: yashksaini-coder
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_calendar: yes
