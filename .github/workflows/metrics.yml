@@ -53,7 +53,6 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_frames: 120
           plugin_skyline_quality: 0.5
-          plugin_skyline_settings: "{\"url\": \"https://skyline.github.com/${login}/${year}\", \"ready\": \"[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')\", \"wait\": 1, \"hide\": \"button, footer, a\"}"
           plugin_skyline_year: 2023
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
@@ -65,4 +64,4 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561199498467483
+          plugin_steam_user: ys3853428
