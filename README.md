@@ -1,15 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+K.+Saini;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+Saini;" />
 </h1> 
 
-<!-- <h2 align="center">Data Scientist from India <img height="22em" width="25em"src="https://camo.githubusercontent.com/bc9f32421df0fc49a3f47132b8154db020ebf02151497921f98da4bb43e47ad3/68747470733a2f2f63646e2e737461746963616c6c792e696f2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f696e2e737667"></h2> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> -->
 
-<!-- <div align="center"><img height="500em" width="900em" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></div> -->
+---
+<div>
+  <h1 align="left">💫 About Me</h1>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p>
-
-
-# 💫 About Me:-
 🔭 I’m currently working on Regression-with-Flood-Prediction :wink: <br>
 👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
 🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
@@ -19,14 +18,17 @@
 👨‍💻 All of my projects are available at [Here!](https://github.com/yashksaini-coder?tab=repositories)<br>
 📝 I regularly write articles on https://medium.com/@yashksaini<br>
 📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
-<!-- ⚡ Fun fact:- The first computer programmer was a woman named Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s. -->
 
 ---
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashksaini-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
+<div>
+  <h1 align="center">🏆 Trophies</h1>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
-## 🌐 Socials:-
+---
+<div>
+  <h1 align="center">🌐 Socials</h1>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/yashksaini)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashksaini)
@@ -34,7 +36,10 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ys3853428/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yashsaini007)
 ![Windows](  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-## Tech Stack 
+
+<div>
+  <h1 align="center"> Tech Stack </h1>
+</div>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -77,30 +82,29 @@
 <p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
 ---
-<!-- <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p> -->
-
-<!-- <div>
-  <p><img align="center" height="280rem" width="1000rem" src="https://myreadme.vercel.app/api/embed/yashksaini-coder?panels=userstatistics,toplanguages,commitgraph"></p>
-</div> -->
+<p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=false"></p> 
 
 
-# Statistics:-
+<div>
+  <h1 align="center">Statistics</h1>
+</div>
 <div align="center">
-<a href="https://github.com/yashksaini-coder">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
+  <a href="https://github.com/yashksaini-coder">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="190em">
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
 </div>
 
-
-<!-- --- 
-<h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/> -->
-
+<div>
+  <h1 align="center">Metrics</h1>
+</div>
 
 ---
+<!-- <h1 align="center">⚡Activity Graph</h1> -->
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>  -->
+
 <h1 align="left">✍️ Dev Quote</h1>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
