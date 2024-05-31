@@ -108,7 +108,7 @@
 <!-- <h1 align="center">⚡Activity Graph</h1> -->
 <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/>  -->
 
-<h1 align="left">✍️ Dev Quote</h1>
+<h1 align="center">✍️ Dev Quote</h1>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
 
