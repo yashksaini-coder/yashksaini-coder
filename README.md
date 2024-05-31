@@ -99,8 +99,8 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
 </div>
 
-<div>
-  <h1 align="center">Metrics</h1>
+<div align="center">
+    <h1>Metrics</h1>
       <img align="center" src="./github-metrics.svg">
 </div>
 
