@@ -101,9 +101,7 @@
 
 <div>
   <h1 align="center">Metrics</h1>
-    <summar>Click Here
       <img src="./github-metrics.svg">
-    </summary>
 </div>
 
 ---
