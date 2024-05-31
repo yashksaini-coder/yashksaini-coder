@@ -101,7 +101,7 @@
 
 <div>
   <h1 align="center">Metrics</h1>
-      <img src="./github-metrics.svg">
+      <img align="center" src="./github-metrics.svg">
 </div>
 
 ---
