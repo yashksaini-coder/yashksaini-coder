@@ -34,7 +34,8 @@ jobs:
           plugin_code_days: 3
           plugin_code_lines: 12
           plugin_code_load: 400
-          plugin_code_visibility: public
+          plugin_code_skipped: yashksaini-coder
+          plugin_code_visibility: all
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
