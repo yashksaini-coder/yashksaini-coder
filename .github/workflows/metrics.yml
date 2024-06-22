@@ -62,9 +62,9 @@ jobs:
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_wakatime: yes
-          plugin_wakatime_days: 7
+          plugin_wakatime_days: 31
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs,
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: yashksaini_coder_007
