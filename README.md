@@ -127,6 +127,6 @@
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=default&r=dmw" width="356" alt="Yash K. Saini's Dev Card"/>
-</p>
+</p> -->
