@@ -2,6 +2,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+Saini;" />
 </h1>  -->
 
+<div align="center">
+  <a href="https://github.com/yashksaini-coder">
+    <img src="./assets/github-header-image.png">
+  </a>
+</div>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
+<br>
+<br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
@@ -93,13 +102,17 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <div align="center">
-  <h1 align="center">Summary</h1>
+  <h1 align="center">⚛️Summary</h1>
 
-<img align="left" height="200rem" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=true&count_private=true" alt=yashksaini-coder>
+  <img align="center" height="280rem" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>
 
-<img align="center" height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <br>
 
-<p><img align="center" height="280rem" width="1000rem" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=dark&hide_border=true"></p> 
+  <img align="center" height="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">
+
+  <br>
+
+  <img align="center" height="280rem" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=dark&hide_border=false">
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
