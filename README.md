@@ -147,7 +147,7 @@
 
 <p align="center">
   <h1 align="center">🔥3D Contributions Chart</h1>
-	<picture>
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/profile-3d-contrib/profile-night-green.svg" />
-	</picture>
+  <picture>
+	  <img src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/profile-3d-contrib/profile-night-green.svg" />
+  </picture>
 </p>
