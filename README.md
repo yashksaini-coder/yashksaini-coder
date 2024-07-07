@@ -8,10 +8,7 @@
   </a>
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
 <br>
-<br>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
@@ -40,7 +37,6 @@
   <!-- <h1>✍️ Dev Quote</h1> -->
   <p align="center" width="1500rem" ><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 </div>
-
 
 <div align="center">
   <!-- <h1 align="center">🌐 Socials</h1> -->
@@ -106,11 +102,11 @@
   <h1 align="center">⚛️Summary</h1>
   <img align="center" height="250rem" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>
 
-&nbsp;
+<br>
     
   <img align="center" height="328rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">
 
-&nbsp;
+<br>
       
   <img align="center" height="235rem" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=dark&hide_border=false">
 </div>
@@ -141,10 +137,17 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/> 
 </div>
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+<br>
 
 <!-- <p align="center">
   <img src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=default&r=dmw" width="356" alt="Yash K. Saini's Dev Card"/>
 </p> -->
+
+<p align="center">
+  <h1 align="center">🔥3D Contributions Chart</h1>
+	<picture>
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/main/profile-3d-contrib/profile-night-green.svg" />
+	</picture>
+</p>
