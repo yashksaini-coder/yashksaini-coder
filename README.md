@@ -91,7 +91,7 @@
 
   <br>
       
-  <img align="center" height="235rem" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=dark&hide_border=false">
+  <a href="https://github.com/yashksaini-coder"><img src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&locale=hi&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
