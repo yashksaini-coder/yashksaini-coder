@@ -4,8 +4,9 @@
 
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
-	<img width="900" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=150r" alt="Yash K. Saini's Dev Card"/></a>
+	<img width="900" height="450" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=150r" alt="Yash K. Saini's Dev Card"/></a>
 </div>
+
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> -->
