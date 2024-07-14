@@ -4,7 +4,11 @@
 
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
-	<img width="600" height="300" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=ozb" alt="Yash K. Saini's Dev Card"/>
+	  <img width="650" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=ozb" alt="Yash K. Saini's Dev Card"/>
+  </a>
+  <!-- <a href="https://app.daily.dev/yashksaini">
+    <img height="472" width="356" src="./assets/DevCard.png" alt="Yash's Dev Card"/>
+  </a> -->
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
