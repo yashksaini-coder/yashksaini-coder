@@ -21,19 +21,3 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
-
-        env:
-          output_dir: "/assets" # Ensure this directory exists and is correct
-
-      - name: Move devcard to assets
-        run: mv devcard.png ./assets/DevCard.png # Adjust the filename if needed
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ./assets/DevCard.png
-          git commit -m "chore: Update DevCard 👾"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is automatically provided by GitHub Actions
