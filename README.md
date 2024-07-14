@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
-	<img width="800" height="400" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=ozb" alt="Yash K. Saini's Dev Card"/>
+	<img width="600" height="300" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=ozb" alt="Yash K. Saini's Dev Card"/>
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
