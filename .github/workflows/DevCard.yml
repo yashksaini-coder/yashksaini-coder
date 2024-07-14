@@ -23,7 +23,7 @@ jobs:
           commit_message: "chore: update ${filename}"
 
         env:
-          ASSETS_DIR: "/assets" # Ensure this directory exists and is correct
+          output_dir: "/assets" # Ensure this directory exists and is correct
 
       - name: Move devcard to assets
         run: mv devcard.png ./assets/DevCard.png # Adjust the filename if needed
