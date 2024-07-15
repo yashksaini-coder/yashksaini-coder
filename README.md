@@ -18,10 +18,10 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
+<!--
 <div>
     <h1 align="left">💫 About Me</h1>
 
-<!--
   🔭 I’m currently working on Regression-with-Flood-Prediction :wink: <br>
   👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
   🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
