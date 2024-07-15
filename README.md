@@ -101,25 +101,27 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<!-- 
-<div>
-  <h1 align="center">Statistics</h1>
+
+<div align="center">
+  <h1><img src="./assets/stats.gif" height="35em">Summary</h1>
 </div>
 <div align="center">
   <a href="https://github.com/yashksaini-coder">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=tokyonight" height="190em">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=tokyonight" height="190em">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=tokyonight&utcOffset=8" height="190em">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=tokyonight" height="190em">
-</div> -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=blueberry">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=blueberry">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=blueberry">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=blueberry&utcOffset=8">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=blueberry">
+</div>
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <!-- <div align="center">
     <h1>Metrics</h1>
       <img align="center" src="./github-metrics.svg">
 </div> -->
+
+<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
 <div align="center">
   <h1>⚡Activity Graph</h1>
