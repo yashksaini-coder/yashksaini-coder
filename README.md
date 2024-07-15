@@ -18,7 +18,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
-  <!-- <div>
+<div>
     <h1 align="left">💫 About Me</h1>
 
 
@@ -32,7 +32,6 @@
   📝 I regularly write articles on https://medium.com/@yashksaini<br>
   📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
   </div>
--->
 
 <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
