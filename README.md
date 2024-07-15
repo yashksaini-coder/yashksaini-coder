@@ -21,7 +21,7 @@
 <div>
     <h1 align="left">💫 About Me</h1>
 
-
+<!--
   🔭 I’m currently working on Regression-with-Flood-Prediction :wink: <br>
   👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
   🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
@@ -32,6 +32,7 @@
   📝 I regularly write articles on https://medium.com/@yashksaini<br>
   📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
   </div>
+-->
 
 <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
