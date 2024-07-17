@@ -1,30 +1,27 @@
- <h1 align="center">
+ <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+Saini;" />
-</h1>  
+</p>  
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
+<br>
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
 	  <img width="650" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
   </a> 
 </div>
 <br>
-
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 
 <div>
     <h1 align="left">💫 About Me</h1>
 
-  🔭 I’m currently working on Regression-with-Flood-Prediction :wink: <br>
-  👯 I’m looking to collaborate on Small scale Industry projects to learn how the execution takes place in big companies. <br>
-  🤝 I’m looking for help with Artificial Intelligence & Generative AI<br>
-  🌱 I’m currently learning Data Strucutres & Algorithms with Java <img height="20em" src="https://github.com/yashksaini-coder/yashksaini-coder/assets/115717039/13125c72-178c-41cf-af35-54758ae1be6a">
-  <br>
-  💬 Ask me about Data Science.<br>
-  👨‍💻 All of my projects are available at [Here!](https://github.com/yashksaini-coder?tab=repositories)<br>
-  📝 I regularly write articles on https://medium.com/@yashksaini<br>
+  🔭 I’m currently working on Binary Classification of Insurance Cross Selling :wink: <br>
+  🤝 I’m learning Data Science & Statistics<br>
+  🌱 I’m currently exploring DSA with Java
+  📝 I regularly write articles on [Medium](https://medium.com/@yashksaini)<br>
+  ♟️Want to know more about me [LinkedIN](https://www.linkedin.com/in/yashksaini/)<br>
   📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
   </div>
 
