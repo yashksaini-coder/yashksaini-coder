@@ -62,15 +62,15 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <div align="center">
-  <h1><img src="./assets/stats.gif" height="35em">Summary</h1>
+  <h1><img src="./assets/stats.gif" height="45em">Summary</h1>
 </div>
 <div align="center">
   <a href="https://github.com/yashksaini-coder">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=blueberry">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=blueberry">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=blueberry">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=blueberry&utcOffset=8">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=blueberry">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashksaini-coder&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=dark&utcOffset=8">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=dark">
 </div> 
 
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
