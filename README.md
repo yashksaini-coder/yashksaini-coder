@@ -23,18 +23,6 @@
   </div> 
 </div>
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
-
-<div>
-  🔭 I’m currently working on Binary Classification of Insurance Cross Selling :wink: <br>
-  🤝 I’m learning Data Science & Statistics<br>
-  🌱 I’m currently exploring DSA with Java
-  📝 I regularly write articles on [Medium](https://medium.com/@yashksaini)<br>
-  ♟️Want to know more about me [LinkedIN](https://www.linkedin.com/in/yashksaini/)<br>
-  📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
-</div>
-
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 <div>
