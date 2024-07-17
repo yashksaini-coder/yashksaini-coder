@@ -75,13 +75,6 @@
 
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
- <div align="center">
-    <h1>Metrics</h1>
-      <img align="center" src="./github-metrics.svg">
-</div> 
-
- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
 
 <div align="center">
   <h1>⚡Activity Graph</h1>
