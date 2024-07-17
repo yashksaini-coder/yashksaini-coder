@@ -28,8 +28,7 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-<div align="center">
-<div style="height:25px; width:800px; display: grid; gap: 5px; background-color: #778da9;001d3d color: #001d3d; padding: 20px; border: 5px solid #edf2f4; border-radius: 8px;"> 
+<div style="height:25px; width:940px; display: grid; align-items:center; justify-content: center; background-color: #778da9;001d3d color: #001d3d; padding: 20px; border: 5px solid #edf2f4; border-radius: 8px;"> 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys3853428@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashksaini-coder)
@@ -37,7 +36,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashksaini/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yashksaini/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yashsaini007)
-</div>
+
 </div>
 
 <br>
