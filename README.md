@@ -1,10 +1,3 @@
- <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+Saini;" />
-</p>  
-
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
-<br>
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
 	  <img width="650" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
@@ -66,10 +59,7 @@
 
 </div> 
 
-
- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
 
 <div align="center">
   <h1><img src="./assets/stats.gif" height="35em">Summary</h1>
