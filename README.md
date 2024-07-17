@@ -1,24 +1,24 @@
-<!-- <h1 align="center">
+ <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=864AF9&background=95EAFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%2C++;I'm+Yash+Saini;" />
-</h1>  -->
+</h1>  
 
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
 	  <img width="650" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
   </a>
-  <!-- <a href="https://app.daily.dev/yashksaini">
+   <a href="https://app.daily.dev/yashksaini">
     <img height="472" width="356" src="devcard.png" alt="Yash's Dev Card"/>
-  </a> -->
+  </a> 
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20visitors&color=0e75b6&style=flat" alt="yashksaini-coder" /> </p> 
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<!--
+
 <div>
     <h1 align="left">💫 About Me</h1>
 
@@ -32,18 +32,18 @@
   📝 I regularly write articles on https://medium.com/@yashksaini<br>
   📫 You can reach me [📧](mailto:ys3853428@gmail.com) <br>
   </div>
--->
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 
 <div align="center">
-  <!-- <h1>✍️ Dev Quote</h1> -->
+   <h1>✍️ Dev Quote</h1> 
   <p align="center" width="1500rem" ><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 </div>
 
 <div align="center">
-  <!-- <h1 align="center">🌐 Socials</h1> -->
+   <h1 align="center">🌐 Socials</h1> 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys3853428@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashksaini-coder)
@@ -63,14 +63,14 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<!--
+
 <div>
   <h1> Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"> 
   </h1>
 </div>
--->
 
-<!-- 
+
+ 
 | Category        | Skills        |
 |-----------------|---------------|
 | Frameworks| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>|
@@ -85,12 +85,12 @@
 | AI | <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> |
 | Design Tools    | <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
 | Learning |<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/> |
--->
 
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
 
-<!-- 
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+
+ 
 <div align="center">
   <h1 align="center"> ⚛️ Github Stats</h1>
 	
@@ -105,9 +105,9 @@
   <a href="https://github.com/yashksaini-coder"><img align="center" height="230rem" src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
 
 </div> 
--->
 
-<!-- 
+
+ 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
@@ -121,25 +121,25 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=blueberry">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=blueberry&utcOffset=8">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=blueberry">
-</div> -->
+</div> 
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<!-- <div align="center">
+ <div align="center">
     <h1>Metrics</h1>
       <img align="center" src="./github-metrics.svg">
-</div> -->
+</div> 
 
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> -->
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<!--
+
 <div align="center">
   <h1>⚡Activity Graph</h1>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/> 
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
--->
+
 <br>
 
 <p align="center" >
