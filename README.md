@@ -28,12 +28,6 @@
 
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-
-<div align="center">
-   <h1>✍️ Dev Quote</h1> 
-  <p align="center" width="1500rem" ><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
-</div>
-
 <div align="center">
    <h1 align="center">🌐 Socials</h1> 
 
