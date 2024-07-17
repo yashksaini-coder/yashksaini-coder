@@ -30,15 +30,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
 
 <div>
   <h1 align="center"> Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"> 
   </h1>
 </div>
-
 
  
 | Category        | Skills        |
@@ -57,22 +54,15 @@
 | Learning |<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/> |
 
 
-
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
  
 <div align="center">
   <h1 align="center"> ⚛️ Github Stats</h1>
-	
-  <img align="center" height="250rem" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>
-	
-  <br> 
   
-  <img align="center" height="238rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">
+  |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">|
+  |---|---|
 
-  <br> 
-
-  <a href="https://github.com/yashksaini-coder"><img align="center" height="230rem" src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://github.com/yashksaini-coder"><img align="center" height="230rem" src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
 
 </div> 
 
