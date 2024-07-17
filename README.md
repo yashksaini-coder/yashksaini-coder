@@ -45,7 +45,7 @@
 
 <div>
   <h1 align="center">🏆 Trophies</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 
