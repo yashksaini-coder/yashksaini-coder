@@ -59,7 +59,7 @@
 
 </div> 
 
-
+<!-- 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
@@ -75,7 +75,7 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=dark&utcOffset=8">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=dark">
   </div>
-</details> 
+</details>  -->
 
  <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
