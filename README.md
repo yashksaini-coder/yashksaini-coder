@@ -49,25 +49,25 @@
 
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
-<details>
-  <summary>
+<div align="center">
     <h1 align="center"> ⚛️ Github Stats</h1>
-  </summary>  
-  <div align="center">
-  
+
   |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">|
   |---|---|
 
 <a href="https://github.com/yashksaini-coder"><img align="center" height="230rem" src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
 
-  </div> 
-</details>
+</div> 
+
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<div align="center">
-  <h1><img src="./assets/stats.gif" height="45em">Summary</h1>
-</div>
+
+<details>
+  <summary>
+    <h1><img src="./assets/stats.gif" height="45em">Summary</h1>
+  </summary>  
+
 <div align="center">
   <a href="https://github.com/yashksaini-coder">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashksaini-coder&theme=dark">
@@ -75,7 +75,8 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashksaini-coder&theme=dark">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=dark&utcOffset=8">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashksaini-coder&theme=dark">
-</div> 
+  </div>
+</details> 
 
  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
