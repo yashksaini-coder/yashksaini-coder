@@ -65,8 +65,7 @@
 
 <details>
   <summary>
-    <h1><img src="./assets/stats.gif" height="45em">Summary</h1>
-  </summary>  
+    <img src="./assets/stats.gif" height="45em">Summary</summary>  
 
 <div align="center">
   <a href="https://github.com/yashksaini-coder">
@@ -78,12 +77,12 @@
   </div>
 </details> 
 
- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+ <!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 <div align="center">
   <h1>⚡Activity Graph</h1>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashksaini-coder&theme=tokyo-night"/> 
-</div>
+</div> -->
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <br>
