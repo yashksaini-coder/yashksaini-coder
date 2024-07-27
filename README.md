@@ -55,7 +55,7 @@
   |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">|
   |---|---|
 
-<a href="https://github.com/yashksaini-coder"><img align="center" height="230rem" src="https://streak-stats.demolab.com?user=yashksaini-coder&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=190&fire=5A0D80&border=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://github.com/yashksaini-coder"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 </div> 
 
