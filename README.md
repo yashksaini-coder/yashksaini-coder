@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
-	  <img width="650" height="350" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
+	  <img width="550" height="300" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
   </a><br>
   <br>
 
@@ -54,8 +54,6 @@
 
   |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&count_private=true" alt=yashksaini-coder>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashksaini-coder&theme=dark&show_icons=true&hide_border=false&layout=compact">|
   |---|---|
-
-<a href="https://github.com/yashksaini-coder"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 </div> 
 
