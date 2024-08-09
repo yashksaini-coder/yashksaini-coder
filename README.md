@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://app.daily.dev/yashksaini">
-	  <img width="550" height="300" src="https://api.daily.dev/devcards/v2/v70a1xOaHvYs0Ta44atDd.png?type=wide&r=j01" alt="Yash K. Saini's Dev Card"/>
+	  <img width="550" height="300" src="devcard.png" alt="Yash K. Saini's Dev Card"/>
   </a><br>
   <br>
 
