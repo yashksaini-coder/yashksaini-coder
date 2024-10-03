@@ -1,15 +1,31 @@
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&color=7C2EF7&width=435&lines=Full+Stack+Data+Scientist;Open+Source+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;Open+Source+contributor" alt="Typing Animation">
 </div>
 
+<br>
+<div align='center'>
+
+  <a href="mailto:ys3853428@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/yashksaini-coder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <a href="https://medium.com/@yashksaini"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.linkedin.com/in/yashksaini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bento.me/yashksaini"><img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"></a>
+  <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/EasycodesDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+
+</div>
+<br>
 <div align="center">
-  <h1 align="center">Dev Card</h1>
-  <img src="devcard.png" alt="Dev Card">
+  <img src="dev-card.png" alt="Dev Card">
 </div>
 
+<br>
+
+---
+
 <div align="center">
-  <h1 align="center">🏆 Trophies</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <!-- <h1 align="center">🏆 Trophies</h1> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
@@ -17,6 +33,8 @@
 <div align="center">
   <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
 </div>
+
+---
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -33,16 +51,20 @@
 | Design Tools    | <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
 | Learning        | <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/> |
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
+---
 
 <div align="center">
-  <h1 align="center">3D Contributions</h1>
-  <img src="https://your-3d-contribution-url-here" alt="3D Contributions">
+    <p align="center" >
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
+    </picture>
+  </p>
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <h1 align="center">Github Stats</h1>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -54,20 +76,13 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashksaini-coder&theme=transparent&utcOffset=5)
 
   </div>
-
-</div> 
+</div>  -->
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-<br>
-<br>
 
-<div align='center'>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys3853428@gmail.com)
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashksaini-coder)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashksaini)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashksaini/)
-  [![Bento](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/yashksaini)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yashksaini.codes/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/EasycodesDev)
+<br>
+<div>
+  <div align="center">
+    <img height='400rem' width='1000rem' src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=midnight-purple&hide_border=false" alt="Streak">
+  </div>
 </div>
