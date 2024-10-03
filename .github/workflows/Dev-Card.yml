@@ -1,0 +1,25 @@
+name: Daily-DevCard
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: main
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v2 # Ensure you checkout the repository
+
+      - name: DevCard
+        uses: dailydotdev/action-devcard@3.0.0
+        with:
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: Update DevCard 👾"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

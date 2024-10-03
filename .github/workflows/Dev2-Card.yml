@@ -1,0 +1,16 @@
+name: Update Dev2 Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-dev-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Dev Card
+        uses: nickytonline/open-sauced-dev-card-action@v1.0.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: "yashksaini-coder"
