@@ -16,6 +16,7 @@
   <a href="https://bento.me/yashksaini"><img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"></a>
   <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/EasycodesDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://discord.gg/QyMVkCV8Nu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
 <br>
