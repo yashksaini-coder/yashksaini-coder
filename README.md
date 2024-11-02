@@ -21,13 +21,11 @@
 <table style="width: 800px; margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
   <tr>
     <td style="width: 400px; height: 200px; padding: 10px; text-align: center; vertical-align: middle;">
-      <a href="https://gitroll.io/profile/u1NA7nDZCykMp15S98lehaGaXAcG3" target="_blank" style="display: block;">
-        <img 
-          src="https://gitroll.io/api/badges/profiles/v1/u1NA7nDZCykMp15S98lehaGaXAcG3" 
-          alt="GitRoll Profile Badge" 
-          style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
-        >
-      </a>
+      <img 
+        src="https://gitroll.io/api/badges/profiles/v1/u1NA7nDZCykMp15S98lehaGaXAcG3" 
+        alt="GitRoll Profile Badge" 
+        style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+      >
     </td>
     <td style="width: 400px; height: 200px; padding: 10px; text-align: center; vertical-align: middle;">
       <img 
