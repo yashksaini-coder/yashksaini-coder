@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600px" width="600px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
+  <img height="600px" width="450px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
 </div>
 
 <!--
