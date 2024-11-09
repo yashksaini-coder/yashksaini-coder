@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/tGCk16spksS.gif">
+  <img src="https://tenor.com/view/under-construction-pikachu-working-jackhammer-pokémon-gif-16386026523899115864">
 </div>
 
 <!--
