@@ -1,4 +1,4 @@
-name: Daily OP-Bento image Update
+name: Bento image Update
 
 on:
   schedule:
