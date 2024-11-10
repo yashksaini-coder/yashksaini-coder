@@ -26,7 +26,7 @@
 
 ![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media)
 
-
+<!-- 
 <table style="width: 800px; margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
   <tr>
     <td style="width: 400px; height: 200px; padding: 10px; text-align: center; vertical-align: middle;">
@@ -53,10 +53,10 @@
   <h1 align="center">🏆 Trophies</h1> 
   <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
+ -->
 
 <details>
-  <summary>## GSSOC(24) Badges 🪶</summary>
-
+  <h2>GSSOC(24) Badges</h2> 🪶
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
