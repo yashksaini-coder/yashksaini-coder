@@ -24,7 +24,7 @@
 </div>
 <br>
 
-![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media)
+<!-- ![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media) -->
 
 <!-- 
 <table style="width: 800px; margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
