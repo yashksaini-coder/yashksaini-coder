@@ -1,4 +1,5 @@
 <div align="center">
+  <a href="https://gssoc-stats-gen.vercel.app/"><img src="https://img.shields.io/badge/gssoc_stats_generator-8957E5?style=for-the-badge&logoColor=white"></a><br>
   <img height="450px" width="600px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
 </div>
 
