@@ -1,9 +1,7 @@
-<div align="center">
-  <a href="https://gssoc-stats-gen.vercel.app/"><img src="https://img.shields.io/badge/gssoc_stats_generator-8957E5?style=for-the-badge&logoColor=white"></a><br>
-  <img height="450px" width="600px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
+<!-- <div align="center">
+  <!-- <img height="450px" width="600px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
 </div>
-
-<!--
+-->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Python+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
@@ -21,9 +19,15 @@
   <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/EasycodesDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X"></a>
   <a href="https://discord.gg/QyMVkCV8Nu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://gssoc-stats-gen.vercel.app/"><img src="https://img.shields.io/badge/GSSoC_stats_Generator-8957E5?style=flat&logoColor=white"></a>
 
 </div>
 <br>
+
+<div align='center'>
+  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media">
+</div>
+
 
 <table style="width: 800px; margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
   <tr>
@@ -43,34 +47,35 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 ---
 
 <div align="center">
-  <!-- <h1 align="center">🏆 Trophies</h1> 
+  <h1 align="center">🏆 Trophies</h1> 
   <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-## GSSOC(24) Badges 🪶
+<details>
+  <summary>## GSSOC(24) Badges 🪶</summary>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
-</div>
-<br>
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+    <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+  </div>
+  <br>
+</details>
 
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
@@ -79,5 +84,3 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 
 [![An image of @yashksainicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashksainicoder)](https://holopin.io/@yashksainicoder)
-
--->
