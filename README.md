@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Python+Developer;AI/ML Enthusiast;Open+Source+contributor" alt="Typing Animation">
 </div>
 
-<br>
+<!--  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=true&Text=B030DD&Border=56FFCD&Ring=DD351A&Title=521CFF">    <img  alt="yashksaini-coder's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yashksaini-coder?cardType=level-alternate&theme=github-dark&preferLogin=true&Text=B030DD&Border=56FFCD&Ring=DD351A&Title=521CFF" />  </a>
+-->
+
 <div align='center'>
 
   <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20views&color=7209b7&style=flat" alt="Profile Views" />
