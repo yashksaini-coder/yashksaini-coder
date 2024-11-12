@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2957" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2940" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.04m added, 344k removed
+                                    2.92m added, 336k removed
                                 </div>
                             </section>
                             <section>
@@ -447,12 +447,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 54 commits)</small>
+                    <small class="h-details">(computed from last 58 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.6 characters per line of code written</li>
+                        <li>Has approximately 31.7 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2478,15 +2478,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">yashksaini-coder/yashksaini-coder</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">yashksaini-coder/web3-assignments</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7add454</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#a71f54f</div>
+                                        <div class="message">Week-13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ca0dd7</div>
+                                        <div class="message">week-12 added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22ea94a</div>
+                                        <div class="message">slides fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e94033</div>
+                                        <div class="message">slides added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11952ec</div>
+                                        <div class="message">fix: Todo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#764c0bb</div>
+                                        <div class="message">week-11 classwork and assignment</div>
                                     </div>
                                 </div>
                             </section>
@@ -2498,97 +2518,97 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 232 commits in
-                                        <span class="repo">yashksaini-coder/CryptoTracker</span>
+                                        Pushed 14 commits in
+                                        <span class="repo">yashksaini-coder/assignments</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-626</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2773987</div>
-                                        <div class="message">assets: add Bitcoin icon for informational display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a82555</div>
-                                        <div class="message">feat: enhance MainComponent on LandingPage with updated content</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a393ebd</div>
-                                        <div class="message">feat: update App component with new features and improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1f734a</div>
-                                        <div class="message">chore: update package-lock.json for dependency adjustments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff20967</div>
-                                        <div class="message">Merge pull request #660 from Shariq2003/add-ccp
+                                        <div class="sha">#9fc613a</div>
+                                        <div class="message">Merge pull request #98 from Praashh/main
 
-add code of conduct in footer</div>
+week-13 assignments</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5f1708</div>
-                                        <div class="message">Merge pull request #662 from Priyanshi0112/Created_career_page
+                                        <div class="sha">#52d826c</div>
+                                        <div class="message">added week-13 assignments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac02966</div>
+                                        <div class="message">Merge pull request #92 from sumana10/solution-branch
 
-Launched a Dynamic Careers Page to Attract Top Talent and Integrate Footer Link for Easy Access</div>
+week-11 assignment solution</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ae5a3cc</div>
-                                        <div class="message">Merge pull request #661 from Priyanshi0112/enhance_defiassets_style
+                                        <div class="sha">#90904c6</div>
+                                        <div class="message">week-11 assignment solution</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e79057</div>
+                                        <div class="message">Merge pull request #90 from sumana10/solution-branch
 
-Enhanced defi assets styling</div>
+Week 11 Recoil Assignment - Updated with Wishlist Component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#79ff6d6</div>
-                                        <div class="message">Created responsive career page</div>
+                                        <div class="sha">#09d78fe</div>
+                                        <div class="message">sync wishlist with the cart</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#599068e</div>
-                                        <div class="message">remember forgot</div>
+                                        <div class="sha">#868c9fc</div>
+                                        <div class="message">Merge pull request #88 from sumana10/solution-branch
+
+Week-10 Solutions</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0c5ad37</div>
-                                        <div class="message">Enhanced defi assets styling</div>
+                                        <div class="sha">#6031132</div>
+                                        <div class="message">add authSystem</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a65c49e</div>
-                                        <div class="message">add code of conduct in footer</div>
+                                        <div class="sha">#42ecbfd</div>
+                                        <div class="message">add solution dir</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c664bca</div>
-                                        <div class="message">add licensing page</div>
+                                        <div class="sha">#36caaff</div>
+                                        <div class="message">random userApi</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4863a77</div>
-                                        <div class="message">fixes</div>
+                                        <div class="sha">#23cc8e4</div>
+                                        <div class="message">Remove .DS_Store file</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e123bcf</div>
-                                        <div class="message">fixed privacy policy ui</div>
+                                        <div class="sha">#f117b6c</div>
+                                        <div class="message">Merge pull request #82 from sumana10/solution-branch
+
+week-11 assignment-1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8bbedb2</div>
-                                        <div class="message">Stargazers application completed</div>
+                                        <div class="sha">#0efe5f2</div>
+                                        <div class="message">week-11 assignment-1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2bf8380</div>
-                                        <div class="message">Remotion types components completed</div>
+                                        <div class="sha">#b604991</div>
+                                        <div class="message">week-9 assignment solution</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e1b222</div>
-                                        <div class="message">added percent change cal</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">yashksaini-coder/CodeChatter</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#63d1357</div>
-                                        <div class="message">Merge branch 'main' into creted_affiliate_program_page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0172947</div>
-                                        <div class="message">Merge branch 'main' into creted_affiliate_program_page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a01235</div>
-                                        <div class="message">Created responsive affiliate program page</div>
+                                        <div class="sha">#a8dcf0a</div>
+                                        <div class="message">Updated Dependencies</div>
                                     </div>
                                 </div>
                             </section>
@@ -2601,11 +2621,11 @@ Enhanced defi assets styling</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#12 fix: 🐛 Bug Fix of Pagination does not work</span>
+                                        <span class="issue">#152 [BUG Fix]: Old issue close</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">mehul-m-prajapati/github_tracker</span></div>
+                                    <div>opened  in <span class="repo">kartikayasijaa/talk-trove</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2618,29 +2638,9 @@ Enhanced defi assets styling</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">Fix/bug-pagination</span>
+                                        <span class="code">yashksaini-coder/issue238</span>
                                         in
-                                        <span class="repo">yashksaini-coder/GitHub-Tracker-2.0</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">yashksaini-coder/GitHub-Tracker-2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Fix/bug-pagination</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0be1397</div>
-                                        <div class="message">feat: 🎸 Filter for Issues &amp; PRs</div>
+                                        <span class="repo">yashksaini-coder/Uttarakhand-Culture-NewUI</span>
                                     </div>
                                 </div>
                             </section>
@@ -3172,7 +3172,7 @@ Enhanced defi assets styling</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 471k out of 217m repositories</span>
+                                    <span class="gh">ranked 471k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 27 times</div>
                             </div>
@@ -3251,7 +3251,7 @@ Enhanced defi assets styling</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 336k out of 217m repositories</span>
+                                    <span class="gh">ranked 336k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 116 stars</div>
                             </div>
@@ -3393,7 +3393,7 @@ Enhanced defi assets styling</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2024, 01:40:28 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2024, 02:38:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
