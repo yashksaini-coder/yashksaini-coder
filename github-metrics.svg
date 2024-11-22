@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3573" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4272" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3301 Commits
+                            3302 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.49m added, 329k removed
+                                    1.49m added, 80.8k removed
                                 </div>
                             </section>
                             <section>
@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    43 Watchers
+                                    44 Watchers
                                 </div>
                             </section>
                         </div>
@@ -447,12 +447,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 70 commits)</small>
+                    <small class="h-details">(computed from last 72 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.9 characters per line of code written</li>
+                        <li>Has approximately 38.6 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2493,95 +2493,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 233 commits in
-                                        <span class="repo">yashksaini-coder/DL-Simplified</span>
+                                        Pushed 56 commits in
+                                        <span class="repo">yashksaini-coder/2004pra</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#69decb6</div>
-                                        <div class="message">Create drone nav files</div>
+                                        <div class="sha">#0444acd</div>
+                                        <div class="message">Add files via upload</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3c705ab</div>
-                                        <div class="message">Merge pull request #949 from milansamuel609/main
-
-Documentation: Enhancement Of Contributing.md</div>
+                                        <div class="sha">#45d095d</div>
+                                        <div class="message">Delete Prashant-Mishra-Front-End-Deve-unscreen.gif</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4b34774</div>
-                                        <div class="message">Update CONTRIBUTING.md
-
-Enhanced the structure and also added some new sections</div>
+                                        <div class="sha">#20e3d52</div>
+                                        <div class="message">Delete 1023.gif</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9eafa67</div>
+                                        <div class="sha">#cc9b476</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f583666</div>
+                                        <div class="message">Delete 1023.mp4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7c8bd2</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#782952b</div>
+                                        <div class="message">Delete Prashant-Mishra-Front-End-Deve-unscreen (1).gif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59afbed</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8922017</div>
+                                        <div class="message">Delete text.gif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bd5add</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#308631c</div>
+                                        <div class="message">Create text.gif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ac78d2</div>
+                                        <div class="message">Delete text.gif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0606850</div>
+                                        <div class="message">Delete intro.svg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2de43f</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e76ad61</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#78dd3f4</div>
-                                        <div class="message">Added the deepfake image detector project</div>
+                                        <div class="sha">#d8472c0</div>
+                                        <div class="message">Create intro.svg</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#358f2db</div>
-                                        <div class="message">Created using Colab</div>
+                                        <div class="sha">#1675386</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5ac9d0f</div>
-                                        <div class="message">Add files via upload</div>
+                                        <div class="sha">#38a7167</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5f03c44</div>
-                                        <div class="message">Create README.md</div>
+                                        <div class="sha">#d84d376</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e5ff463</div>
-                                        <div class="message">Add files via upload</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9b2758</div>
-                                        <div class="message">Create README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#088eac2</div>
-                                        <div class="message">Delete Traffic Accident Prediction Model using Deep Learning/Model directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8010a9</div>
-                                        <div class="message">Merge branch 'abhisheks008:main' into paddy-classification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a09a1d</div>
-                                        <div class="message">paddy-classification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf15ca4</div>
-                                        <div class="message">Add files via upload</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63666d7</div>
-                                        <div class="message">Create README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed94898</div>
-                                        <div class="message">Delete Traffic Accident Prediction Model using Deep Learning  directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e96524</div>
-                                        <div class="message">Create Model</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46cdc3e</div>
-                                        <div class="message">Delete Traffic Accident Prediction Model using Deep Learning directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2980a3e</div>
-                                        <div class="message">Add files via upload</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e720140</div>
-                                        <div class="message">Create README.md</div>
+                                        <div class="sha">#dbb9692</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2593,277 +2589,408 @@ Enhanced the structure and also added some new sections</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 234 commits in
-                                        <span class="repo">yashksaini-coder/Hiring-Portal</span>
+                                        Pushed 258 commits in
+                                        <span class="repo">yashksaini-coder/SwapReads</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a73bed</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#5a545c8</div>
+                                        <div class="message">done</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eda81b7</div>
+                                        <div class="sha">#4bc5aa7</div>
+                                        <div class="message">Merge pull request #4776 from souvikpramanikgit/add-scrollbtn
+
+I added a scroll to top button in about page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4a4267</div>
+                                        <div class="message">Update achievements.html</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75ab92e</div>
+                                        <div class="message">fixed password input field</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff7d5d0</div>
+                                        <div class="message">Merge branch 'anuragverma108:main' into dropd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f92614f</div>
+                                        <div class="message">Update repo structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf5f363</div>
+                                        <div class="message">making newsletter and vote popup appear only once per session</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b65d6c</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/KapuluruBhuvaneswariVspdbct/SwapReads</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#932df25</div>
+                                        <div class="message">solved #4780</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0819ac</div>
+                                        <div class="message">ci: 🎡 Add stargazers application</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02e38ce</div>
+                                        <div class="message">Add changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#018d35d</div>
+                                        <div class="message">Added Pop-Up Responsive Code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1ba44e</div>
+                                        <div class="message">change in css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6aa7799</div>
+                                        <div class="message">deleted an irrelevant page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ead835d</div>
+                                        <div class="message">added to quick link section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7c4cac</div>
+                                        <div class="message">Merge branch 'anuragverma108:main' into dropd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#914e132</div>
+                                        <div class="message">added footer to the page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4354023</div>
+                                        <div class="message">Merge branch 'anuragverma108:main' into dropd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70b5908</div>
+                                        <div class="message">New UI  + Quiz</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaa4d87</div>
+                                        <div class="message">attribute</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 49 commits in
+                                        <span class="repo">yashksaini-coder/javascript-handbook</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5c4821a</div>
+                                        <div class="message">Required changes done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9364841</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a22215d</div>
+                                        <div class="message">added contributing and code-of-conduct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf45a44</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c3acd</div>
+                                        <div class="message">Merge pull request #100 from Shinu-ster/combine/destructuring-and-logos
+
+Combined all commits into one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#793f3ba</div>
+                                        <div class="message">Combined all commits into one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00b8e12</div>
+                                        <div class="message">Width changes of Contact Form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c905f8</div>
+                                        <div class="message">Contact Us theme updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42c4dac</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14e6d8c</div>
+                                        <div class="message">Merge pull request #92 from THE-ASHUTOSH/correction
+
+UI modified</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce7b5db</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11e4b42</div>
+                                        <div class="message">Merge pull request #81 from yashksaini-coder/yash/fix-80
+
+Add Action workflows for contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c15048</div>
+                                        <div class="message">UI modified</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a07ef3</div>
+                                        <div class="message">Merge pull request #87 from THE-ASHUTOSH/correction
+
+Correct margin and padding of contact and share</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e88a3df</div>
+                                        <div class="message">Added zero-md in index files and readme updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#600790f</div>
+                                        <div class="message">Correct margin and padding of contact and share</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f7d50</div>
+                                        <div class="message">Merge pull request #82 from lord-cyclone100/redundancy
+
+Fixed broken links and removed code redundancy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3e24bd</div>
+                                        <div class="message">Fixed broken links and removed code redundancy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#498ae2e</div>
+                                        <div class="message">Add action workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#947fdc2</div>
+                                        <div class="message">Update Markers</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 47 commits in
+                                        <span class="repo">yashksaini-coder/javascript-handbook</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">yash/fix-80</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#475b532</div>
+                                        <div class="message">Merge pull request #98 from devp299/updated-contact-us
+
+Contact Us theme updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af08294</div>
+                                        <div class="message">updated zero-md to v3 and goback removed in some file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c4821a</div>
+                                        <div class="message">Required changes done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9364841</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a22215d</div>
+                                        <div class="message">added contributing and code-of-conduct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf45a44</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c3acd</div>
+                                        <div class="message">Merge pull request #100 from Shinu-ster/combine/destructuring-and-logos
+
+Combined all commits into one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#793f3ba</div>
+                                        <div class="message">Combined all commits into one</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00b8e12</div>
+                                        <div class="message">Width changes of Contact Form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c905f8</div>
+                                        <div class="message">Contact Us theme updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42c4dac</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14e6d8c</div>
+                                        <div class="message">Merge pull request #92 from THE-ASHUTOSH/correction
+
+UI modified</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce7b5db</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11e4b42</div>
+                                        <div class="message">Merge pull request #81 from yashksaini-coder/yash/fix-80
+
+Add Action workflows for contributors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c15048</div>
+                                        <div class="message">UI modified</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a07ef3</div>
+                                        <div class="message">Merge pull request #87 from THE-ASHUTOSH/correction
+
+Correct margin and padding of contact and share</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e88a3df</div>
+                                        <div class="message">Added zero-md in index files and readme updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#600790f</div>
+                                        <div class="message">Correct margin and padding of contact and share</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25f7d50</div>
+                                        <div class="message">Merge pull request #82 from lord-cyclone100/redundancy
+
+Fixed broken links and removed code redundancy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3e24bd</div>
+                                        <div class="message">Fixed broken links and removed code redundancy</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 424 commits in
+                                        <span class="repo">yashksaini-coder/Python-Voice-Assistant-Suryanshsk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af75525</div>
+                                        <div class="message">Update Readme.md
+
+made the description  more presentable and easy eye catcher
+And also added one more about this project to get the insights of technologies used</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be4f54c</div>
+                                        <div class="message">add: script files for creating and activating venv</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e2ad96</div>
+                                        <div class="message">fix: Enhance setup.py with cross-platform venv support and loading spinner</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ce9d55</div>
+                                        <div class="message">Add files via upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2279a8c</div>
                                         <div class="message">Merge branch 'main' into main</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#619a31a</div>
-                                        <div class="message">Merge pull request #188 from sps234/feature/show-password
+                                        <div class="sha">#a9818ab</div>
+                                        <div class="message">Updated contributors list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f718979</div>
+                                        <div class="message">Merge pull request #1 from suryanshsk/main
 
-Add show password functionality, implement welcome to HireHub redirection, and fix 'remember me' alignment</div>
+pr29340</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d4aa65d</div>
-                                        <div class="message">additional fratures and all PRs manages</div>
+                                        <div class="sha">#2857b71</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d6061e1</div>
-                                        <div class="message">antd issue solved</div>
+                                        <div class="sha">#6ee5ffb</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/jitendra-ky/Python-Voice-Assistant-Suryanshsk</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#545ea8f</div>
-                                        <div class="message">Merge pull request #177 from Sawan-Kushwah/feat/googleTranslator
-
-Added google translator for whole website</div>
+                                        <div class="sha">#fdff655</div>
+                                        <div class="message">add page2 of streamlit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c84ad00</div>
-                                        <div class="message">Merge pull request #183 from Sawan-Kushwah/feat/AtsSystem
-
-Feat ATS tracking system added</div>
+                                        <div class="sha">#f0e68c8</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d3e2f9f</div>
-                                        <div class="message">Add show password functionality, implement welcome to HireHub redirection, and fix 'remember me' alignment</div>
+                                        <div class="sha">#2b6bc07</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/jitendra-ky/Python-Voice-Assistant-Suryanshsk</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d319f18</div>
-                                        <div class="message">Merge pull request #186 from RishabhSri17/main
-
-Feat : Add Preview and Upload Options for Application Files</div>
+                                        <div class="sha">#331b5f9</div>
+                                        <div class="message">the the intro page of streamlit app</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cf25f9e</div>
-                                        <div class="message">AddPreviewUpload</div>
+                                        <div class="sha">#4d4dae8</div>
+                                        <div class="message">Add articles.json to .gitignore and update requirements</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7ab42cc</div>
-                                        <div class="message">improve ui</div>
+                                        <div class="sha">#632635c</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9b8b57f</div>
-                                        <div class="message">remove print statement</div>
+                                        <div class="sha">#9bcc00c</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6f47f2d</div>
-                                        <div class="message">ui change</div>
+                                        <div class="sha">#b4682ff</div>
+                                        <div class="message">package included</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#53e34b8</div>
-                                        <div class="message">Added AI generated ATS tracking System</div>
+                                        <div class="sha">#ea4ad6b</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#39cc2a0</div>
-                                        <div class="message">add languages dialogue box done</div>
+                                        <div class="sha">#321284c</div>
+                                        <div class="message">speech to text</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b52358d</div>
-                                        <div class="message">Multi-Language Support Using Language Translator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e71cf1b</div>
-                                        <div class="message">Added google translator for whole website</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7241de8</div>
-                                        <div class="message">Update update-structure.py
-
-1. **Environment Variable Handling**:
-   - The script expects environment variables `GH_TOKEN` and `GITHUB_REPOSITORY`, but lacks validation initially, potentially causing runtime failures. Error handling is added to ensure meaningful error messages if these variables are missing.
-
-2. **Error Handling**:
-   - The script lacks proper error handling for file operations (`README.md` and `repo_structure.txt`). It now checks for missing files and prevents crashes by catching `FileNotFoundError`.
-
-3. **GitHub API Error Handling**:
-   - Direct interaction with the GitHub API via `github.Github()` can throw exceptions, but the original code doesn’t account for that. Exception handling is added to manage API failures or rate limits gracefully.
-
-4. **Directory Traversal**:
-   - The recursive function `get_repo_structure` traverses directories, but recursion depth could be a concern for very large or deeply nested repositories. Skipping hidden files (`.` prefixed) improves clarity and performance.
-
-5. **File Modification Logic**:
-   - The script compares the existing and current repository structures, and only updates the files if changes are detected. This is a good practice to avoid unnecessary file updates, but lacks logging for potential failures in GitHub interaction.
-
-6. **Markers in `README.md`**:
-   - The script relies on special markers (`&lt;!-- START_STRUCTURE --&gt;`, `&lt;!-- END_STRUCTURE --&gt;`) in `README.md`. If these markers are not present, it logs a message and doesn’t update the file, avoiding unintended overwrites.
-
-7. **Logging**:
-   - Minimal logging makes the script harder to debug. Adding print statements improves clarity but could be further enhanced with a logging library for better debugging and verbosity control.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2feda48</div>
-                                        <div class="message">Merge branch 'main' into ratelimit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5739dac</div>
-                                        <div class="message">added rate limiter to login api</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 408 commits in
-                                        <span class="repo">yashksaini-coder/web-projects-2024</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a41a01a</div>
-                                        <div class="message">First person shooting Game is added
-
-This pull request adds a fps games where one can test their shooting skill in shooting range .</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c214ab</div>
-                                        <div class="message">Ball Jumper Game
-
-A simple ball jumper game where the player controls a bouncing ball, navigating platforms to avoid obstacles and reach higher levels. Features smooth physics and increasing difficulty.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88bc83f</div>
-                                        <div class="message">3D Restaurant Menu
-
-Added 3D interactive restaurant menu with responsive layout, leveraging CSS animations and jQuery for enhanced user interaction and seamless performance.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cfb66a</div>
-                                        <div class="message">Social Network Prototype
-
-This pull request adds a social network protype where people can chat ,view posts and lots of other stuff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27265ac</div>
-                                        <div class="message">Ludo King game
-
-This is a web-based Ludo game built using HTML, CSS, and JavaScript. The game allows four players—each controlling pawns of different colors (Red, Yellow, Green, and Blue)—to move across the board following standard Ludo game rules.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99507aa</div>
-                                        <div class="message">Lost Game is added
-
-**Lost Path** is a maze game built using HTML5, JavaScript, and Canvas. The objective of the game is to navigate through the maze and find the exit within 30 seconds. The maze is generated randomly each time, offering players a unique challenge every time they play.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92ff18a</div>
-                                        <div class="message">Jumping Dead Platform game
-
-The Jumping Dead is a fun, interactive web-based game where players navigate levels, avoid enemies, and jump to victory. The game includes immersive sound effects and responsive controls, making it easy to pick up and play. The aim is to complete each level by avoiding or defeating enemies by jumping on them.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d8540c</div>
-                                        <div class="message">Space-Invaders is added
-
-Welcome to **Space Invaders**, a classic arcade-style game recreated using HTML5 Canvas and JavaScript. This project is a modern take on the retro space-shooter where players control a tank and shoot waves of invading aliens.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ec6485</div>
-                                        <div class="message">Typing Game is added
-
-This is a simple typing challenge game built using HTML, CSS, and JavaScript. The goal of the game is to type the displayed phrase as quickly and accurately as possible. After typing, your speed and accuracy are measured and displayed.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#073fc83</div>
-                                        <div class="message">Live Code Editor
-
-This is a simple web-based code editor where you can write, edit, and compile HTML, CSS, and JavaScript on the fly. The editor uses Ace for syntax highlighting and text-editing features and enables you to switch between the HTML, CSS, and JavaScript panels, compiling your changes instantly when the "Result" button is clicked.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3af9ac7</div>
-                                        <div class="message">Landing Page of Denytech</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88af9b7</div>
-                                        <div class="message">Update style.css
-
-Added media queries for smaller screens.
-Each recipe is in a visually appealing card with hover effects.
-A loading spinner displays while the data is fetched, improving user feedback.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d47d0ee</div>
-                                        <div class="message">Updated script.js
-
-loading spinner added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1d37d6</div>
-                                        <div class="message">Merge branch 'SamarthTech:main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aede155</div>
-                                        <div class="message">Currency converter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f95bc9b</div>
-                                        <div class="message">Updated index.html
-
-corrected the code for proper working of website, added a loading spinner.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb4f2a9</div>
-                                        <div class="message">Update style.css
-
-dark theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcdf4ac</div>
-                                        <div class="message">Update script.js
-
-dark theme toggle functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b08f412</div>
-                                        <div class="message">Updated index.html
-
-dark theme toggle button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5e3aec</div>
-                                        <div class="message">&lt;CodeAura&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">daytonaio/daytona</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Made
-                                        <span class="repo">yashksaini-coder/Blockchain-explorer</span>
-                                        public
+                                        <div class="sha">#cb78b76</div>
+                                        <div class="message">Updated contributors list</div>
                                     </div>
                                 </div>
                             </section>
@@ -3395,7 +3522,7 @@ dark theme toggle button</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 489k out of 224m repositories</span>
+                                    <span class="gh">ranked 489k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 26 times</div>
                             </div>
@@ -3474,7 +3601,7 @@ dark theme toggle button</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 333k out of 224m repositories</span>
+                                    <span class="gh">ranked 333k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 118 stars</div>
                             </div>
@@ -3616,7 +3743,7 @@ dark theme toggle button</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2024, 11:44:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2024, 12:40:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
