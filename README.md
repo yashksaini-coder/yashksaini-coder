@@ -18,13 +18,12 @@
   <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/EasycodesDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X"></a>
   <a href="https://discord.gg/QyMVkCV8Nu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://gssoc-stats-gen.vercel.app/"><img src="https://img.shields.io/badge/GSSoC_stats_Generator-8957E5?style=flat&logoColor=white"></a>
   <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" alt="Total time coded since May 29 2024" /></a>
 </div>
 <br>
 
 
-![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media)
+<!-- ![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media) -->
 
 <table style="width: 800px; margin: 0 auto; border-collapse: collapse; border: 1px solid #ccc;">
   <tr>
