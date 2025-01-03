@@ -22,5 +22,5 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_sections: most-used
           plugin_languages_details: lines, percentage # Note that lines is only available when plugin_languages_indepth is enabled
-          plugin_languages_limit: 6   # limit is 8
+          plugin_languages_limit: 10  # limit is 8
           plugin_languages_analysis_timeout: 15
