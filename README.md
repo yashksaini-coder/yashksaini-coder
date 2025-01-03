@@ -114,9 +114,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# My GitHub Metrics
-
-<div align="center">
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
+<details>
+  <summary>Expand</summary> 
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
@@ -128,8 +128,25 @@
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
-</div>            
+</details>                     
 <br>
+
+<!-- Support Me Here 
+
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me 
+
+> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/yashksaini-coder) for further details.
+
+<br>
+
+<a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
+<a href="https://www.buymeacoffee.com/anmolbaranwal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
+<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
+
+<br><br>
+
+
+-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
