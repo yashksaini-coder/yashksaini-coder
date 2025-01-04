@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="43.46741045214328 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">450</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="43.56400469759248 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">451</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3406</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="50.60112676056338 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">273</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="50.78647887323944 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">274</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1775</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x255</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x256</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x121</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x104</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x82</span></div>
@@ -79,6 +79,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Number of Ways to Split Array</div>
+                            <div class="date">3 Jan 2025</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -112,15 +121,6 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Number of Ways to Form a Target String Given a Dictionary</div>
-                            <div class="date">30 Dec 2024</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Count Ways To Build Good Strings</div>
                             <div class="date">30 Dec 2024</div>
                         </div>
                     </div>
