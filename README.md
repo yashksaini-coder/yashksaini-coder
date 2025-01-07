@@ -73,7 +73,7 @@
 
 ✍ Also I write blogs on [Dev.to](https://dev.to/yashksaini) and [Medium](https://medium.com/@yashksaini) about my experiences and learnings in the field of Data Science, AI/ML, Open Source and Web Development.
 
-📈 &nbsp; I am currently building my discord community for open source developers and Beginners in Open Source at [Akatsuki Discord](https://discord.gg/RAjEBUMYBu).
+📈 &nbsp; I am currently building my discord community for open source developers and Beginners in Open Source at [Discord](https://discord.gg/RAjEBUMYBu).
 
 🔖 &nbsp; Also contributing to **DEV** & **Quira** challenges and got my PRs merged.
 
