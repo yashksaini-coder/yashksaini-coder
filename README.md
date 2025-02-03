@@ -3,14 +3,13 @@
 </div>
 -->
 
-
 <!-- Main Header section -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=50&pause=1000&color=9418F7&center=true&vCenter=true&width=800&height=150&lines=Python+Developer;AI/ML Enthusiast;Open+Source+Contributor" alt="Typing Animation">
 </div>
 
-<div align='center'>
+<!-- <div align='center'>
 
   <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20views&color=7209b7&style=for-the-badge" alt="Profile Views" />
   <a href="https://dev.to/yashksaini"><img src="https://img.shields.io/badge/dev.to-272932?style=for-the-badge&logo=devdotto&logoColor=001233" alt="profile of Dev.to with username yashksaini" /></a>
@@ -22,8 +21,9 @@
   <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/EasycodesDev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
   <a href="https://discord.gg/RAjEBUMYBu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <!-- <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" alt="Total time coded since May 29 2024" /></a> -->
-</div>
+  <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" alt="Total time coded since May 29 2024" /></a>
+</div> -->
+
 <!-- ![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media) -->
 
 <!-- 
@@ -132,22 +132,18 @@
 </details>                     
 <br>
 
-<!-- Support Me Here 
+<!-- Support Me Here --> 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me 
 
-> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/yashksaini-coder) for further details.
+#### *I have done significant contributions to the Open source community and you can support and motivate me to continue work and giving more to the open source space.*
 
+<div align="center">
+  <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=480ca8" /></a>
+  <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=480ca8" /></a>
+  </a>
+</div>
 <br>
-
-<a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
-<a href="https://www.buymeacoffee.com/anmolbaranwal"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0A0209" /></a>
-<a href="https://anmolbaranwal.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-d5d5d5?style=for-the-badge&logo=gumroad&logoColor=0A0209" /></a>
-
-<br><br>
-
-
--->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
