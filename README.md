@@ -24,17 +24,16 @@
   <a href="https://discord.gg/RAjEBUMYBu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <!-- <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" alt="Total time coded since May 29 2024" /></a> -->
 </div>
-<br>
-
-
 <!-- ![Github-Grid](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fyashksaini-codereece3.png?alt=media) -->
 
-
+<!-- 
 | ![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u1NA7nDZCykMp15S98lehaGaXAcG3) | ![Dev Card](dev-card.png) |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------:|
-| ![Yash K. Saini github stats](https://github-readme-stats.vercel.app/api?username=yashksaini-coder&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&title_color=8093f1&icon_color=480ca8&text_color=ffffff&border_color=0A0209&border_radius=8) | ![Yash K. Saini GitHub Streak](https://nirzak-streak-stats.vercel.app?user=yashksaini-coder&theme=tokyonight&hide_border=true&border_radius=8&background=45%2C161B33%2C1C2541&ring=161B33&fire=3A506B)|
+| ![Yash K. Saini github stats](https://github-readme-stats.vercel.app/api?username=yashksaini-coder&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&title_color=8093f1&icon_color=480ca8&text_color=ffffff&border_color=0A0209&border_radius=8) | ![Yash K. Saini GitHub Streak](https://nirzak-streak-stats.vercel.app?user=yashksaini-coder&theme=tokyonight&hide_border=true&border_radius=8&background=45%2C161B33%2C1C2541&ring=161B33&fire=3A506B)| -->
 
-<!-- (https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=true) --> |
+<div align="center">
+  <img alt="Yash K. Saini GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashksaini-coder&theme=tokyonight&hide_border=true" height="350" width="500">
+</div>
 
 
 <!-- Secondary Section -->
