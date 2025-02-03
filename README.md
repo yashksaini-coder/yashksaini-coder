@@ -5,9 +5,9 @@
 
 <!-- Main Header section -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=50&pause=1000&color=9418F7&center=true&vCenter=true&width=800&height=150&lines=Python+Developer;AI/ML Enthusiast;Open+Source+Contributor" alt="Typing Animation">
-</div>
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=500&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=600&height=80&lines=Python+Developer;AI/ML Enthusiast;Open+Source+Contributor" alt="Typing Animation">
+</div> -->
 
 <!-- <div align='center'>
 
