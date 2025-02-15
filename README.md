@@ -143,7 +143,7 @@
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 | Habits | Sponsorships |
-| ![Recent Activity](assets/metrics.plugin.habits.charts.svg) | ![Sponsorships](assets/metrics.plugin.sponsorships.svg) |
+| ![Recent Activity](assets/metrics.plugin.habits.charts.svg) | ![Sponsorships](assets/metrics.plugin.sponsors.svg) |
 
 </details>                     
 <br>
