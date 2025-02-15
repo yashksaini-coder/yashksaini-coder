@@ -142,6 +142,7 @@
 | ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+| Habits | Sponsorships |
 | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) | ![Sponsorships](assets/metrics.plugin.sponsorships.svg) |
 
 </details>                     
