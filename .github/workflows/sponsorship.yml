@@ -1,4 +1,4 @@
-name: Languages Activity
+name: Sponsorship Activity
 on:
   # Schedule updates (At minute 0 past every 12th hour)
   schedule: [{ cron: "0 */12 * * *" }]
