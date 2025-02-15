@@ -1,4 +1,4 @@
-name: Sponsorship Activity
+name: Sponsors Activity
 on:
   # Schedule updates (At minute 0 past every 12th hour)
   schedule: [{ cron: "0 */12 * * *" }]
@@ -12,7 +12,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-            filename: assets/metrics.plugin.sponsorships.svg
+            filename: assets/metrics.plugin.sponsors.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
-            plugin_sponsorships: yes
+            plugin_sponsors: yes
+            plugin_sponsors_sections: goal, list
+            plugin_sponsors_past: yes
+            plugin_sponsors_title: "Sponsor Me"
+            plugin_sponsors_size: 12
