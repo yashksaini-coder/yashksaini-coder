@@ -139,11 +139,11 @@
 | Leetcode Stats | Notable Contributions |
 | ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
 | Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) |
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 | Habits | Sponsorships |
-| ![Recent Activity](assets/metrics.plugin.habits.charts.svg) | ![Sponsorships](assets/metrics.plugin.sponsors.svg) |
+| ![Language Activity](assets/metrics.plugin.languages.activity.svg) | ![Sponsorships](assets/metrics.plugin.sponsors.svg) |
 
 </details>                     
 <br>
