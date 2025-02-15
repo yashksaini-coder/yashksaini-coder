@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.indepth.svg
+          filename: assets/metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
