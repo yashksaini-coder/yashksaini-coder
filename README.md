@@ -142,9 +142,6 @@
 | ![Achievements](assets/metrics.plugin.achievements.svg) | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) |
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-| Habits | Sponsorships |
-| ![Language Activity](assets/metrics.plugin.languages.activity.svg) | ![Sponsorships](assets/metrics.plugin.sponsors.svg) |
-
 </details>                     
 <br>
 
@@ -154,6 +151,8 @@
 
 #### *I have done significant contributions to the Open source community and you can support and motivate me to continue work and giving more to the open source space.*
 
+<!-- sponsors --><!-- sponsors -->
+
 <div align="center">
   <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=480ca8" /></a>
   <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=480ca8" /></a>
@@ -161,6 +160,6 @@
 </div>
 <br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ -->
 
