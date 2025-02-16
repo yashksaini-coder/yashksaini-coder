@@ -154,8 +154,8 @@
 <!-- sponsors --><!-- sponsors -->
 
 <div align="center">
-  <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=480ca8" /></a>
-  <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=480ca8" /></a>
+  <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
+  <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   </a>
 </div>
 <br>
