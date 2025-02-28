@@ -39,6 +39,7 @@
 <!-- | ![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u1NA7nDZCykMp15S98lehaGaXAcG3) | ![Dev Card](dev-card.png) |
 |:-------------------------------------------------------------------------------------------------:|:-------------------------:| -->
 
+<!--
 <div align="center">
   <table>
     <tr>
@@ -51,14 +52,16 @@
     </tr>
   </table>
 </div>
+-->
 
   <!-- Secondary Section -->
 
-  <details>
-    <summary>🏆 Trophies</summary>
-    <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
-    </div>
+  <!-- <details>
+  <summary>🏆 Trophies</summary> -->
+  <h3>🏆 Trophies</h3>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+  </div>
 
   <div align="center" style='display:flex; align-items:center; gap: 10px;' align='center'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -70,12 +73,12 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+<!--     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </div>
-</details>
+<!-- </details> -->
 
 <!--- About ME  -->
 <div>
