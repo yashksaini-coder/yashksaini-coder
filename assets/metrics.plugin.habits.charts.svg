@@ -272,43 +272,39 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,21.835,76.963L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,20.633,77.294L0,0Z">
                                         <title>TSX
-31.67</title>
+31.75</title>
                                     </path>
-                                    <path fill="#3178c6" d="M20.871,77.229A80,80,0,0,1,-11.916,79.108L0,0Z">
+                                    <path fill="#3178c6" d="M19.665,77.545A80,80,0,0,1,-13.313,78.884L0,0Z">
                                         <title>TypeScript
-4.58</title>
+4.59</title>
                                     </path>
-                                    <path fill="#00B4AB" d="M-12.903,78.953A80,80,0,0,1,-14.611,78.654L0,0Z">
-                                        <title>Dart
-0.24</title>
-                                    </path>
-                                    <path fill="#3572A5" d="M-15.593,78.466A80,80,0,0,1,-44.011,66.806L0,0Z">
+                                    <path fill="#3572A5" d="M-14.298,78.712A80,80,0,0,1,-43.042,67.434L0,0Z">
                                         <title>Python
-4.28</title>
+4.29</title>
                                     </path>
-                                    <path fill="#663399" d="M-44.843,66.251A80,80,0,0,1,-47.322,64.503L0,0Z">
+                                    <path fill="#663399" d="M-43.881,66.891A80,80,0,0,1,-46.452,65.133L0,0Z">
                                         <title>CSS
-0.42</title>
+0.43</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-48.124,63.907A80,80,0,0,1,-56.054,57.079L0,0Z">
+                                    <path fill="#f1e05a" d="M-47.262,64.547A80,80,0,0,1,-55.357,57.755L0,0Z">
                                         <title>JavaScript
-1.45</title>
+1.46</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-56.763,56.374A80,80,0,0,1,-15.947,-78.394L0,0Z">
+                                    <path fill="#c6538c" d="M-56.074,57.058A80,80,0,0,1,-15.98,-78.388L0,0Z">
                                         <title>SCSS
-23.84</title>
+23.90</title>
                                     </path>
-                                    <path fill="#384d54" d="M-14.966,-78.588A80,80,0,0,1,-14.114,-78.745L0,0Z">
+                                    <path fill="#384d54" d="M-14.999,-78.581A80,80,0,0,1,-14.145,-78.74L0,0Z">
                                         <title>Dockerfile
 0.12</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-13.128,-78.915A80,80,0,0,1,-8.406,-79.557L0,0Z">
+                                    <path fill="#e34c26" d="M-13.159,-78.91A80,80,0,0,1,-8.423,-79.555L0,0Z">
                                         <title>HTML
 0.66</title>
                                     </path>
-                                    <path fill="#3288bd" d="M-7.411,-79.656A80,80,0,0,1,-1.572,-79.985L0,0Z">
+                                    <path fill="#3288bd" d="M-7.428,-79.654A80,80,0,0,1,-1.572,-79.985L0,0Z">
                                         <title>RenderScript
 0.81</title>
                                     </path>
@@ -318,41 +314,38 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(39.63553217055285,-5.387447406431942)">
+                                    <text transform="translate(39.676308997837175,-5.078435222403154)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">31.67</tspan>
+                                        <tspan x="0" y="1.1em">31.75</tspan>
                                     </text>
-                                    <text transform="translate(2.2876199954798997,39.93453135766439)">
+                                    <text transform="translate(1.6228056085092613,39.967067717772224)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">4.58</tspan>
+                                        <tspan x="0" y="1.1em">4.59</tspan>
                                     </text>
-                                    <text transform="translate(-6.878939304108735,39.40406316676477)">
-                                        <tspan x="0" y="0em" font-weight="bold">Dart</tspan>
-                                    </text>
-                                    <text transform="translate(-15.183348539554222,37.006295776886624)">
+                                    <text transform="translate(-14.609717997284184,37.23648936244971)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">4.28</tspan>
+                                        <tspan x="0" y="1.1em">4.29</tspan>
                                     </text>
-                                    <text transform="translate(-23.04514746847976,32.69436003588419)">
+                                    <text transform="translate(-22.587553696743164,33.01215560966512)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(-26.100285030577762,30.311303523975972)">
+                                    <text transform="translate(-25.710891006896244,30.642292401703596)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-38.28282284788492,-11.59420004991549)">
+                                    <text transform="translate(-38.35484703015852,-11.353665015894222)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
-                                        <tspan x="0" y="1.1em">23.84</tspan>
+                                        <tspan x="0" y="1.1em">23.90</tspan>
                                     </text>
-                                    <text transform="translate(-7.270092276656807,-39.333773761093596)">
+                                    <text transform="translate(-7.286046715502769,-39.330821543155075)">
                                         <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
                                     </text>
-                                    <text transform="translate(-5.386079845935258,-39.63571803176032)">
+                                    <text transform="translate(-5.3980855356643564,-39.63408473207942)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-2.2473233105938144,-39.93681932675237)">
+                                    <text transform="translate(-2.2516887877855902,-39.93657343342016)">
                                         <tspan x="0" y="0em" font-weight="bold">RenderScript</tspan>
                                     </text>
-                                    <text transform="translate(-0.26805229836141425,-39.99910183948314)">
+                                    <text transform="translate(-0.2681049766590759,-39.99910148642705)">
                                         <tspan x="0" y="0em" font-weight="bold">MDX</tspan>
                                     </text>
                                 </g>
