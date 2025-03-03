@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.19021582733813 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">509</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.284892086330935 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">510</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3475</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="57.201550387596896 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">314</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="57.383720930232556 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">315</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1806</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x293</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x294</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x140</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x122</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x84</span></div>
@@ -79,6 +79,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Partition Array According to Given Pivot</div>
+                            <div class="date">3 Mar 2025</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -113,15 +122,6 @@
                         <div class="infos">
                             <div class="title">Length of Longest Fibonacci Subsequence</div>
                             <div class="date">27 Feb 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Maximum Absolute Sum of Any Subarray</div>
-                            <div class="date">26 Feb 2025</div>
                         </div>
                     </div>
                 </section>
