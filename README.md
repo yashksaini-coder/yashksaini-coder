@@ -114,6 +114,7 @@
 <a href="https://dev.to/yashksaini"><img src="https://img.shields.io/badge/dev.to-272932?style=for-the-badge&logo=devdotto&logoColor=001233" alt="profile of Dev.to with username yashksaini" /></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
 - [First look into Daytona + TypeScript Integration](https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4)
 - [[Boost]](https://dev.to/yashksaini/-4c4o)
 - [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
