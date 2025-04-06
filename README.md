@@ -5,7 +5,7 @@
 
 <div align="center">
  <img
-    src="https://render.gitanimals.org/lines/yashksaini-coder?pet-id=674574175898004100"
+    src="https://render.gitanimals.org/lines/yashksaini-coder"
     width="700"
     height="120"
   />
