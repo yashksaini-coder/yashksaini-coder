@@ -5,9 +5,9 @@
 
 <div align="center">
  <img
-    src="https://render.gitanimals.org/lines/yashksaini-coder"
+    src="https://render.gitanimals.org/farms/yashksaini-coder"
     width="700"
-    height="120"
+    height="300"
   />
 </div>
   
