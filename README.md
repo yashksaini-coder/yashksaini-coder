@@ -147,6 +147,9 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
 
+<details>
+  <summary>Click to expand!</summary>
+
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
 | ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
@@ -154,7 +157,8 @@
 | ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
 | Achievements | Language Activity |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) |
-                 
+    
+</details>             
 <br>
 
 ---
