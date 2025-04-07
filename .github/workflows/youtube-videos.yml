@@ -19,7 +19,7 @@ jobs:
           lang: en
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
-          max_videos: 6
+          max_videos: 100
           base_url: https://ytcards.demolab.com/
           card_width: 250
           border_radius: 5
