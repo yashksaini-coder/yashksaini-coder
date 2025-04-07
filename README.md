@@ -10,7 +10,20 @@
     height="300"
   />
 </div>
-  
+
+<!-- 
+<div align="center">
+ <img
+    src="./banner.png"
+    width="700"
+    height="300"
+  />
+</div>
+<br> 
+-->
+
+---
+   
 <!-- Main Header section -->
 
 <!-- <div align="center">
@@ -19,17 +32,16 @@
 
 <div align='center'>
 
-  <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20views&color=7209b7&style=for-the-badge" alt="Profile Views" />
-  <a href="https://dev.to/yashksaini"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="profile of Dev.to with username yashksaini" /></a>
-  <a href="mailto:ys3853428@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/yashksaini-coder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://medium.com/@yashksaini"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.linkedin.com/in/yashksaini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://bento.me/yashksaini"><img src="https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white" alt="Bento"></a>
-  <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/yash_k_saini"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://discord.gg/RAjEBUMYBu" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg?style=for-the-badge" alt="Total time coded since May 29 2024" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yashksaini-coder&label=Profile%20views&color=7209b7" alt="Profile Views" />
+  <a href="https://dev.to/yashksaini"><img src="https://img.shields.io/badge/dev.to-0A0A0A?&logo=dev.to&logoColor=white" alt="profile of Dev.to with username yashksaini" /></a>
+  <a href="mailto:ys3853428@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/yashksaini-coder"><img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" alt="Github"></a>
+  <a href="https://medium.com/@yashksaini"><img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.linkedin.com/in/yashksaini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bento.me/yashksaini"><img src="https://img.shields.io/badge/Bento-768CFF.svg?&logo=Bento&logoColor=white" alt="Bento"></a>
+  <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/yash_k_saini"><img src="https://img.shields.io/badge/X-%23000000.svg?&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a"><img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg?" alt="Total time coded since May 29 2024" /></a>
 </div>
 <br>
 
@@ -59,9 +71,9 @@
   <!-- <details>
   <summary>🏆 Trophies</summary> -->
   <h3>🏆 Trophies</h3>
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
-  </div>
+  </div> -->
 
   <div align="center" style='display:flex; align-items:center; gap: 10px;' align='center'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -134,8 +146,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
-<details>
-  <summary>Expand</summary> 
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
@@ -143,11 +153,13 @@
 | Leetcode Stats | Notable Contributions |
 | ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
 | Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-</details>                     
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Recent Activity](assets/metrics.plugin.habits.charts.svg) |
+                 
 <br>
+
+---
+
+[![An image of @yashksainicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashksainicoder)](https://holopin.io/@yashksainicoder)
 
 <!-- Support Me Here --> 
 
@@ -156,7 +168,6 @@
 #### *I have done significant contributions to the Open source community and you can support and motivate me to continue work and giving more to the open source space.*
 
 <div align="center">
-<!-- sponsors -->
 
 <!-- sponsors -->
 </div>
