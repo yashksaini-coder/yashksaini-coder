@@ -3,13 +3,31 @@
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
  <img
     src="https://render.gitanimals.org/farms/yashksaini-coder"
     width="700"
     height="300"
   />
-</div>
+</div> -->
+
+```markdown
+
+            ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+            ║      ██████╗ ██████╗ ███████╗███╗   ██╗    ███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗     ║
+            ║     ██╔═══██╗██╔══██╗██╔════╝████╗  ██║    ██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝     ║
+            ║     ██║   ██║██████╔╝█████╗  ██╔██╗ ██║    ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗       ║
+            ║     ██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║    ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝       ║
+            ║     ╚██████╔╝██║     ███████╗██║ ╚████║    ███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗     ║
+            ║      ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝     ║
+            ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+# Achievemnets
+
+
+### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) | 
+
 
 <!-- 
 <div align="center">
@@ -68,8 +86,8 @@
 
   <!-- Secondary Section -->
 
-  <!-- <details>
-  <summary>🏆 Trophies</summary> -->
+  <details>
+  <summary>🏆 Trophies</summary>
   <h3>🏆 Trophies</h3>
   <!-- <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
@@ -90,11 +108,11 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </div>
-<!-- </details> -->
+</details>
 
 <!--- About ME  -->
 <div>
-
+<!-- 
 <i>&nbsp; Building & Shipping Products with open source.</i> <br><br>
 
 👋 I'm ***Yash K. Saini***, an Open Source Developer from India, who is super into Open Source stuff, Data Science, AI/ML and Developing & Contributing to different Open Source Projects and Organizations.
@@ -117,7 +135,7 @@
 
 🎯 &nbsp; I also helped built [Sneaky Package](https://github.com/AmateursLeague/sneaky-package) Python Library in GSSoC-Ext 2024 and will continue working on more open source projects.
 
-😄 &nbsp; Besides that, I make side projects, brainstorm ideas, and keep learning new stuff.
+😄 &nbsp; Besides that, I make side projects, brainstorm ideas, and keep learning new stuff. -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -142,6 +160,11 @@
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&for-the-badgeten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
 </div> -->
+
+<!-- Youtube video sections -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
