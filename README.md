@@ -38,10 +38,6 @@
 <br>
 
 <div align="center">
-  <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight" width="48%" />
-    <img src="https://streak-stats.demolab.com/?user=yashksaini-coder&theme=tokyonight" width="48%" />
-  </p>
   <img width="80%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
 </div>
 
