@@ -13,16 +13,18 @@
 
 ```markdown
 
-            ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-            ║                                                                                          ║
-            ║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██╗  ██╗       ███████╗ █████╗ ██╗███╗   ██╗██╗   ║
-            ║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝       ██╔════╝██╔══██╗██║████╗  ██║██║   ║
-            ║    ╚████╔╝ ███████║███████╗███████║    █████╔╝        ███████╗███████║██║██╔██╗ ██║██║   ║
-            ║     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔═██╗        ╚════██║██╔══██║██║██║╚██╗██║██║   ║
-            ║      ██║   ██║  ██║███████║██║  ██║    ██║  ██╗██╗    ███████║██║  ██║██║██║ ╚████║██║   ║
-            ║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝   ║
-            ║                                                                                          ║
-            ╚══════════════════════════════════════════════════════════════════════════════════════════╝
+              ╔══════════════════════════════════════════════════════════════════════════════════════════╗
+              ║                                                                                          ║
+              ║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██╗  ██╗       ███████╗ █████╗ ██╗███╗   ██╗██╗   ║
+              ║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝       ██╔════╝██╔══██╗██║████╗  ██║██║   ║
+              ║    ╚████╔╝ ███████║███████╗███████║    █████╔╝        ███████╗███████║██║██╔██╗ ██║██║   ║
+              ║     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔═██╗        ╚════██║██╔══██║██║██║╚██╗██║██║   ║
+              ║      ██║   ██║  ██║███████║██║  ██║    ██║  ██╗██╗    ███████║██║  ██║██║██║ ╚████║██║   ║
+              ║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝   ║
+              ║                                                                                          ║
+              ╚══════════════════════════════════════════════════════════════════════════════════════════╝
+            
+              
 ```
 
 # Achievemnets
@@ -31,11 +33,23 @@
 ### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) | 
 
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=yashksaini-coder&theme=tokyonight">
-  <img src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight">
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yashksaini-coder&theme=tokyonight">
+      </td>
+    </tr>
+  </table>
+  <img width="80%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
+</div>
 
 <!-- 
 <div align="center">
