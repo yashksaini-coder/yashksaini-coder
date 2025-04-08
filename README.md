@@ -23,8 +23,8 @@
               ║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝   ║
               ║                                                                                          ║
               ╚══════════════════════════════════════════════════════════════════════════════════════════╝
-            
-              
+
+
 ```
 
 # Achievemnets
@@ -40,10 +40,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight">
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yashksaini-coder&theme=tokyonight">
       </td>
     </tr>
