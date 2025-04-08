@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <img width="80%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
+  <img width="50%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
 </div>
 
 <!-- 
