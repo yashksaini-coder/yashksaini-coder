@@ -33,8 +33,8 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight">
-  <img height="50%" width="auto" src ="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=yashksaini-coder&theme=tokyonight">
+  <img src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png" />
 </p>
 
 <!-- 
