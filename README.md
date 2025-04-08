@@ -31,6 +31,12 @@
 ### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) | 
 
 
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&show_icons=true&theme=tokyonight">
+  <img height="50%" width="auto" src ="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=yashksaini-coder&theme=tokyonight">
+</p>
+
 <!-- 
 <div align="center">
  <img
