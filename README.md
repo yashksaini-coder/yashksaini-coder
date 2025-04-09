@@ -30,7 +30,7 @@
 # Achievemnets
 
 
-### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) | 
+### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) | **[Merged Contributions](https://docs.google.com/spreadsheets/d/1fwtYagAjVp5gj0cTt6x2nr7dSLxIPOg2VmcDZH2_2aQ/edit?gid=0#gid=0)**
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
