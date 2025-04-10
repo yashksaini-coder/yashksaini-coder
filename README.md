@@ -38,6 +38,7 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashksaini-coder&include_all_commits=true&count_private=true&show_icons=true&line_height=26&title_color=8338ec&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40">
   <img width="50%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
 </div>
 
