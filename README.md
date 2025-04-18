@@ -23,7 +23,7 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 ---
 
 - Participated in ***[Kaggle](https://www.kaggle.com/yashsaini007)*** competitions (Competitions Contributor)
-- Participated & won online hackathons
+- Participated & won 5+ hackathons
 - Built Python Packages during OSS events
 - Writing blogs on **[Dev.to](https://dev.to/@yashksaini)** about my experiences and learnings 
 
@@ -93,11 +93,12 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&for-the-badgeten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
 </div> 
+-->
 
 <!-- Youtube video sections -->
 
