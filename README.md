@@ -54,9 +54,9 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 - Fetching data from GitHub API, and displaying it in a dashboard.
 - Filter with different parameters, and sort them.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-## Coding Streak & GitHub Stats
+<!-- ## Coding Streak & GitHub Stats
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/yashksaini-coder?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" />
   </a>
     </td>
-</table>
+</table> -->
 
 <!-- ![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u1NA7nDZCykMp15S98lehaGaXAcG3) -->
 
@@ -200,23 +200,6 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
-
-<details>
-  <summary>Click to expand!</summary>
-
-|                                  Overview                                  |                          Follow up Issues & PRs                           |
-| :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) |       ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg)       |
-|                               Leetcode Stats                               |                           Notable Contributions                           |
-|           ![Leetcode Stats](assets/metrics.plugin.leetcode.svg)            | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-|                                Achievements                                |                             Language Activity                             |
-|           ![Discussions](assets/metrics.plugin.discussions.svg)            |        ![Recent Activity](assets/metrics.plugin.habits.charts.svg)        |
-
-</details>             
-<br>
-
----
 
 [![An image of @yashksainicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashksainicoder)](https://holopin.io/@yashksainicoder)
 
@@ -224,12 +207,7 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me
 
-#### _I have done significant contributions to the Open source community and you can support and motivate me to continue work and giving more to the open source space._
-
-<div align="center">
-
 <!-- sponsors -->
-</div>
 
 <div align="center">
   <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
