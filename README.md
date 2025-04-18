@@ -19,7 +19,6 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 [![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/yash_k_saini)
 [![Social Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yashksaini.codes/)
 
-[
 ## 📝 What I've done
 ---
 
