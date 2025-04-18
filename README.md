@@ -82,11 +82,13 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
     height="300"
   />
 </div>
-<br>  -->
+<br>  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 📚 Latest Blog Posts
+-->
+
+<!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -95,7 +97,7 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 <br>
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&for-the-badgeten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
-</div> -->
+</div> 
 
 <!-- Youtube video sections -->
 
