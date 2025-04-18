@@ -1,49 +1,61 @@
 <!-- <div align="center">
-  <!-- <img height="450px" width="600px" src="https://media.tenor.com/42bcTn0iuVgAAAAj/under-construction-pikachu.gif">
-</div>
--->
-
-<!-- <div align="center">
  <img
     src="https://render.gitanimals.org/farms/yashksaini-coder"
-    width="700"
-    height="300"
+    width="800"
+    height="250"
   />
 </div> -->
 
-```markdown
-              ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-              ║                                                                                          ║
-              ║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██╗  ██╗       ███████╗ █████╗ ██╗███╗   ██╗██╗   ║
-              ║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝       ██╔════╝██╔══██╗██║████╗  ██║██║   ║
-              ║    ╚████╔╝ ███████║███████╗███████║    █████╔╝        ███████╗███████║██║██╔██╗ ██║██║   ║
-              ║     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔═██╗        ╚════██║██╔══██║██║██║╚██╗██║██║   ║
-              ║      ██║   ██║  ██║███████║██║  ██║    ██║  ██╗██╗    ███████║██║  ██║██║██║ ╚████║██║   ║
-              ║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝   ║
-              ║                                                                                          ║
-              ╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
 
-# Achievemnets
 
-### [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
+### Hi there 👋, I'm **Software Developer**! 
 
+Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI applications and learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
+
+## [![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf) | [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
 ---
-
 [![Social Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/@yashksaini)
 [![Social Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yashksaini)
 [![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/yash_k_saini)
 [![Social Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yashksaini.codes/)
 
-[![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf)
+[
+## 📝 What I've done
+---
 
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+- Participated in ***[Kaggle](https://www.kaggle.com/yashsaini007)*** competitions (Competitions Contributor)
+- Participated & won online hackathons
+- Built Python Packages during OSS events
+- Writing blogs on **[Dev.to](https://dev.to/@yashksaini)** about my experiences and learnings 
 
-<br>
+## 📦 Open Source Projects & Contributions
+---
 
-<!-- <div align="center">
-  <img width="50%" src="https://wakatime.com/share/@yashksaini_coder_007/309ed642-dac1-471f-b911-c106344a0d65.png">
-</div> -->
+### [Mastra Mem0 Backend](https://github.com/yashksaini-coder/mastra-mem0-backend)
+- Built a Multi-Agent AI Backend using Mastra & Mem0.
+- With a worklfow to search & send  emails to users & collaborators, with personalized email drafts.
+- General CSV file output containing all the data.
+
+### [Python Blockchain System](https://python-blockchain-zeta.vercel.app/)
+- Built a Blockchain System in Python
+- Users can create public/ private key, send transactions, mine blocks, and more.
+
+### [Investo Glow](https://investo-glow.vercel.app/)
+- Built a Vite full stack application to get stock market data AI agent
+- Many features such as Wathclist, Dashboard, Agentic AI chat, and more.
+- User queries answered on real-time data using AI agent API
+
+### [Notes App](https://notes-ai-tau.vercel.app/)
+- Built a full stack application to create, edit, delete and search notes with AI LLM.
+- With Supabase as Auth, Backend and Database provider
+- Secure Auth, Advance Search with fuzzy finding, Chat and more.
+
+### [GitHub Tracker](https://github-tracker-yashksaini.vercel.app/)
+- ViteJS application to get your PRs merged in GitHub.
+- Fetching data from GitHub API, and displaying it in a dashboard.
+- Filter with different parameters, and sort them.
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Coding Streak & GitHub Stats
 
@@ -72,8 +84,6 @@
   />
 </div>
 <br>  -->
-
----
 
 <!-- Main Header section -->
 
@@ -154,9 +164,8 @@
 
 ## 📚 Latest Blog Posts
 
-<a href="https://dev.to/yashksaini"><img src="https://skillicons.dev/icons?i=devto" alt="profile of Dev.to with username yashksaini" /></a>
-
 <!-- BLOG-POST-LIST:START -->
+
 - [Automate Discord Messages](https://dev.to/yashksaini/automate-discord-messages-30ip)
 - [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
 - [First look into Daytona + TypeScript Integration](https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4)
@@ -179,6 +188,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![GH Browser Extension 👾](https://ytcards.demolab.com/?id=x0v7scoOx4o&title=GH+Browser+Extension+%F0%9F%91%BE&lang=en&timestamp=1744010447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=47 "GH Browser Extension 👾")](https://www.youtube.com/watch?v=x0v7scoOx4o#gh-dark-mode-only)[![GH Browser Extension 👾](https://ytcards.demolab.com/?id=x0v7scoOx4o&title=GH+Browser+Extension+%F0%9F%91%BE&lang=en&timestamp=1744010447&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=47 "GH Browser Extension 👾")](https://www.youtube.com/watch?v=x0v7scoOx4o#gh-light-mode-only)
 [![I Built an 🧠AI Agent… Then deployed as API 💥[ FULL VIDEO ]](https://ytcards.demolab.com/?id=Ewnsmr99NJY&title=I+Built+an+%F0%9F%A7%A0AI+Agent%E2%80%A6+Then+deployed+as+API+%F0%9F%92%A5%5B+FULL+VIDEO+%5D&lang=en&timestamp=1743953800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=198 "I Built an 🧠AI Agent… Then deployed as API 💥[ FULL VIDEO ]")](https://www.youtube.com/watch?v=Ewnsmr99NJY#gh-dark-mode-only)[![I Built an 🧠AI Agent… Then deployed as API 💥[ FULL VIDEO ]](https://ytcards.demolab.com/?id=Ewnsmr99NJY&title=I+Built+an+%F0%9F%A7%A0AI+Agent%E2%80%A6+Then+deployed+as+API+%F0%9F%92%A5%5B+FULL+VIDEO+%5D&lang=en&timestamp=1743953800&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=198 "I Built an 🧠AI Agent… Then deployed as API 💥[ FULL VIDEO ]")](https://www.youtube.com/watch?v=Ewnsmr99NJY#gh-light-mode-only)
 [![I Built an 🧠AI Agent… Then deployed as API 💥](https://ytcards.demolab.com/?id=9jkqToUvmZ4&title=I+Built+an+%F0%9F%A7%A0AI+Agent%E2%80%A6+Then+deployed+as+API+%F0%9F%92%A5&lang=en&timestamp=1743938911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60 "I Built an 🧠AI Agent… Then deployed as API 💥")](https://www.youtube.com/watch?v=9jkqToUvmZ4#gh-dark-mode-only)[![I Built an 🧠AI Agent… Then deployed as API 💥](https://ytcards.demolab.com/?id=9jkqToUvmZ4&title=I+Built+an+%F0%9F%A7%A0AI+Agent%E2%80%A6+Then+deployed+as+API+%F0%9F%92%A5&lang=en&timestamp=1743938911&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=60 "I Built an 🧠AI Agent… Then deployed as API 💥")](https://www.youtube.com/watch?v=9jkqToUvmZ4#gh-light-mode-only)
@@ -187,6 +197,7 @@
 [![Beginner's Dayotna Tutorial guide](https://ytcards.demolab.com/?id=yqH_cbAg2zk&title=Beginner%27s+Dayotna+Tutorial+guide&lang=en&timestamp=1734201849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=240 "Beginner's Dayotna Tutorial guide")](https://www.youtube.com/watch?v=yqH_cbAg2zk#gh-dark-mode-only)[![Beginner's Dayotna Tutorial guide](https://ytcards.demolab.com/?id=yqH_cbAg2zk&title=Beginner%27s+Dayotna+Tutorial+guide&lang=en&timestamp=1734201849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=240 "Beginner's Dayotna Tutorial guide")](https://www.youtube.com/watch?v=yqH_cbAg2zk#gh-light-mode-only)
 [![RAG Chatbot Demo](https://ytcards.demolab.com/?id=eruXhixW1VM&title=RAG+Chatbot+Demo&lang=en&timestamp=1732118632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=228 "RAG Chatbot Demo")](https://www.youtube.com/watch?v=eruXhixW1VM#gh-dark-mode-only)[![RAG Chatbot Demo](https://ytcards.demolab.com/?id=eruXhixW1VM&title=RAG+Chatbot+Demo&lang=en&timestamp=1732118632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=228 "RAG Chatbot Demo")](https://www.youtube.com/watch?v=eruXhixW1VM#gh-light-mode-only)
 [![Code Whisper AI](https://ytcards.demolab.com/?id=lEKjmKORdtM&title=Code+Whisper+AI&lang=en&timestamp=1723630260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=140 "Code Whisper AI")](https://www.youtube.com/watch?v=lEKjmKORdtM#gh-dark-mode-only)[![Code Whisper AI](https://ytcards.demolab.com/?id=lEKjmKORdtM&title=Code+Whisper+AI&lang=en&timestamp=1723630260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=140 "Code Whisper AI")](https://www.youtube.com/watch?v=lEKjmKORdtM#gh-light-mode-only)
+
 <!-- END YOUTUBE-CARDS -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
