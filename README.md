@@ -165,7 +165,6 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Automate Discord Messages](https://dev.to/yashksaini/automate-discord-messages-30ip)
 - [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
 - [First look into Daytona + TypeScript Integration](https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4)
