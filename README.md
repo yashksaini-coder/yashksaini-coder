@@ -164,16 +164,7 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Discord Messages](https://dev.to/yashksaini/automate-discord-messages-30ip)
-- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
-- [First look into Daytona + TypeScript Integration](https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4)
-- [[Boost]](https://dev.to/yashksaini/-4c4o)
-- [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
-- [Is Public Learning the most Effective way ?](https://dev.to/yashksaini/is-public-learning-the-most-effective-way--432g)
 <!-- BLOG-POST-LIST:END -->
-
-</div>
-<br>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
@@ -198,23 +189,23 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 
 <!-- END YOUTUBE-CARDS -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-[![An image of @yashksainicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashksainicoder)](https://holopin.io/@yashksainicoder)
+[![An image of @yashksainicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashksainicoder)](https://holopin.io/@yashksainicoder) -->
 
 <!-- Support Me Here -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me
+<!-- # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me -->
 
 <!-- sponsors -->
-
+<!-- 
 <div align="center">
   <a href="https://github.com/sponsors/yashksaini-coder"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
   <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   </a>
 </div>
-<br>
+<br> -->
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  -->
