@@ -10,7 +10,8 @@
 
 ### Hi there 👋, I'm **Software Developer**! 
 
-Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI applications and learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
+Addicted to ***Code***, ***Anime***, ***Agentic AI*** applications. 
+Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 
 ## [![wakatime](https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg)](https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a) | [Bounty 102$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
 ---
@@ -26,6 +27,11 @@ Addicted to ***Code*** & ***Anime***. Currently working on building Agentic AI a
 - Participated & won 5+ hackathons
 - Built Python Packages during OSS events
 - Writing blogs on **[Dev.to](https://dev.to/@yashksaini)** about my experiences and learnings 
+
+## 📦 Skills
+---
+
+<img align='center' src="https://skillicons.dev/icons?i=git,github,githubactions,python,flask,fastapi,html,css,js,bun,bash,node,npm,pnpm,yarn,express,nextjs,react,vite,mongo,postgres,tailwind,ts,postman,prisma,supabase,vercel,docker">
 
 <!-- ## 📦 Open Source Projects & Contributions
 ---
