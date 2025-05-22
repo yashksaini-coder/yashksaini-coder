@@ -20,6 +20,7 @@ Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 [![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/yash_k_saini)
 [![Social Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yashksaini.codes/)
 
+<!--
 ## 📝 What I've done
 ---
 
@@ -28,6 +29,8 @@ Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 - Built Python Packages during OSS events
 - Writing blogs on **[Dev.to](https://dev.to/@yashksaini)** about my experiences and learnings 
 
+-->
+  
 ## 📦 Skills
 ---
 
