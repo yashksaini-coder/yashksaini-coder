@@ -34,7 +34,7 @@ Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 ## 📦 Skills
 ---
 
-<img align='center' src="https://skillicons.dev/icons?i=git,github,githubactions,python,flask,fastapi,html,css,js,bun,bash,nodejs,npm,pnpm,yarn,express,nextjs,react,vite,mongo,postgres,tailwind,ts,postman,prisma,supabase,vercel,docker">
+<img align='center' src="https://skillicons.dev/icons?i=git,github,githubactions,python,flask,fastapi,html,css,js,bash,nodejs,npm,pnpm,express,nextjs,react,vite,mongo,postgres,tailwind,ts,postman,prisma,supabase,vercel,docker">
 
 <!-- ## 📦 Open Source Projects & Contributions
 ---
