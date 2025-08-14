@@ -13,7 +13,7 @@
 Addicted to ***Code***, ***Anime***, ***Agentic AI*** applications. 
 Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 
-## [![wakatime](https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg)](https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a) | [Bounty 103$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
+## [![wakatime](https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg)](https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a) | [Bounty 103$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 81$](https://x.com/0xCracked_dev/status/1951544807316201622) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
 ---
 [![Social Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/@yashksaini)
 [![Social Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yashksaini)
