@@ -17,7 +17,7 @@ Currently learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 ---
 [![Social Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/@yashksaini)
 [![Social Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yashksaini)
-[![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/yash_k_saini)
+[![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/0xCracked_dev)
 [![Social Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yashksaini.codes/)
 
 <!--
