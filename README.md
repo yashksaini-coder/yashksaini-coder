@@ -44,7 +44,6 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Kleos CLI: Mindsdb Knowledge Base supercharged](https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83)
 - [What does not Giving up get you ? Prime example](https://dev.to/yashksaini/what-does-not-giving-up-get-you-prime-example-2bn9)
 - [How I built a AI Agent server](https://dev.to/yashksaini/how-i-built-a-ai-agent-server-3315)
