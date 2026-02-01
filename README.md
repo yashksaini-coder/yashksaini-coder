@@ -2,7 +2,8 @@
 
 # 👨‍💻 Software Developer & AI Enthusiast
 
-<img src="./assets/github-timeline.png" alt="GitHub Timeline" width="100%" />
+<img src="./assets/stats.png" alt="yashksaini-coder" />
+<!-- <img src="./assets/github-timeline.png" alt="GitHub Timeline" width="100%" /> -->
 
 </div>
 
@@ -44,6 +45,7 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kleos CLI: Mindsdb Knowledge Base supercharged](https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83)
 - [What does not Giving up get you ? Prime example](https://dev.to/yashksaini/what-does-not-giving-up-get-you-prime-example-2bn9)
 - [How I built a AI Agent server](https://dev.to/yashksaini/how-i-built-a-ai-agent-server-3315)
@@ -69,14 +71,14 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 
 <!-- # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me -->
 
-
 <br>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  -->
 
-<img src="./assets/stats.png" alt="yashksaini-coder" />
+<!-- <img src="./assets/stats.png" alt="yashksaini-coder" /> -->
 
+<img src="./assets/yashksaini-coder-space-shooter.gif" alt="yashksaini-coder" />
 <!-- sponsors -->
 
 <!-- <div align="center">
@@ -84,3 +86,4 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
   <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   </a>
 </div> -->
+
