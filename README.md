@@ -45,12 +45,12 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
 - [Kleos CLI: Mindsdb Knowledge Base supercharged](https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83)
 - [What does not Giving up get you ? Prime example](https://dev.to/yashksaini/what-does-not-giving-up-get-you-prime-example-2bn9)
 - [How I built a AI Agent server](https://dev.to/yashksaini/how-i-built-a-ai-agent-server-3315)
 - [Automate Discord Messages](https://dev.to/yashksaini/automate-discord-messages-30ip)
 - [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
-- [First look into Daytona + TypeScript Integration](https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
