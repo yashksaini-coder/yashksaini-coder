@@ -45,12 +45,12 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn)
+- [Simulating P2P Attacks and Teaching AI to Resume Sessions](https://dev.to/yashksaini/simulating-p2p-attacks-and-teaching-ai-to-resume-sessions-2i16)
+- [Beyond the Panic: Hardening the Rust SDK](https://dev.to/yashksaini/beyond-the-panic-hardening-the-rust-sdk-53oj)
 - [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
 - [Kleos CLI: Mindsdb Knowledge Base supercharged](https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83)
 - [What does not Giving up get you ? Prime example](https://dev.to/yashksaini/what-does-not-giving-up-get-you-prime-example-2bn9)
-- [How I built a AI Agent server](https://dev.to/yashksaini/how-i-built-a-ai-agent-server-3315)
-- [Automate Discord Messages](https://dev.to/yashksaini/automate-discord-messages-30ip)
-- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
