@@ -45,12 +45,12 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev Log #4 A Week of Deep Integrations](https://dev.to/yashksaini/dev-log-4-a-week-of-deep-integrations-4b27)
 - [VarCouch — I Built an AI Therapist for Your Code Variables &lpar;They Need It&rpar;](https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec)
 - [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn)
 - [Simulating P2P Attacks and Teaching AI to Resume Sessions](https://dev.to/yashksaini/simulating-p2p-attacks-and-teaching-ai-to-resume-sessions-2i16)
 - [Beyond the Panic: Hardening the Rust SDK](https://dev.to/yashksaini/beyond-the-panic-hardening-the-rust-sdk-53oj)
 - [I Built a TUI That Makes Rust Code Inspection Feel Like Magic ✨](https://dev.to/yashksaini/i-built-a-tui-that-makes-rust-code-inspection-feel-like-magic-375k)
-- [Kleos CLI: Mindsdb Knowledge Base supercharged](https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
