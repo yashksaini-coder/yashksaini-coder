@@ -45,12 +45,12 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a local document Q&amp;A tool around Gemma 4 E4B&#39;s 128K context — five days, no RAG, no cloud](https://dev.to/yashksaini/i-built-a-local-document-qa-tool-around-gemma-4-e4bs-128k-context-five-days-no-rag-no-cloud-2e1k)
+- [I stress-tested Gemma 4 E4B&#39;s 128K context on a laptop GPU — recall is great, prefill is not](https://dev.to/yashksaini/i-stress-tested-gemma-4-e4bs-128k-context-on-a-laptop-gpu-recall-is-great-prefill-is-not-244i)
 - [Dev Log #5 Building a Claude-style SRE terminal and tackling WebRTC](https://dev.to/yashksaini/dev-log-5-building-a-claude-style-sre-terminal-and-tackling-webrtc-3knp)
 - [Dev Log #4 A Week of Deep Integrations](https://dev.to/yashksaini/dev-log-4-a-week-of-deep-integrations-4b27)
 - [VarCouch — I Built an AI Therapist for Your Code Variables &lpar;They Need It&rpar;](https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec)
 - [Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to](https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn)
-- [Simulating P2P Attacks and Teaching AI to Resume Sessions](https://dev.to/yashksaini/simulating-p2p-attacks-and-teaching-ai-to-resume-sessions-2i16)
-- [Beyond the Panic: Hardening the Rust SDK](https://dev.to/yashksaini/beyond-the-panic-hardening-the-rust-sdk-53oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
