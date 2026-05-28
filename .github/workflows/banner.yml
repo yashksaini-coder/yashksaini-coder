@@ -1,0 +1,22 @@
+name: Refresh GitBanner
+on:
+  schedule:
+    - cron: "0 6 * * 0" # every Sunday at 06:00 UTC
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yashksaini-coder/GitBanner@v1
+        with:
+          github-token: ${{ secrets.BANNER_TOKEN }}
+          username: yashksaini-coder
+          output-path: ./assets/gitbanner
+          format: both
+          theme: dark
+          include-private: false
+          commit: true
+          commit-message: "chore: refresh GitBanner stats"

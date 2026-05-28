@@ -2,8 +2,7 @@
 
 # 👨‍💻 Software Developer & AI Enthusiast
 
-<img src="./assets/stats.png" alt="yashksaini-coder" />
-<!-- <img src="./assets/github-timeline.png" alt="GitHub Timeline" width="100%" /> -->
+![GitBanner](./assets/gitbanner.png)
 
 </div>
 
