@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="GitHub stats for yashksaini-coder">
+  <defs>
+    <style>.gb-display { font-family: "Inter Display", "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-weight: 800; letter-spacing: -0.02em; }
+    .gb-text { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-weight: 500; }
+    .gb-text-bold { font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-weight: 700; }
+    .gb-mono { font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-weight: 600; }</style>
+  </defs>
+  <rect width="1600" height="900" rx="36" fill="#0b0d12"/>
+  
+    <g transform="translate(28, 28)">
+      <rect width="296" height="460" rx="24" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 28)">
+        <rect width="56" height="56" rx="14" fill="#22c55e" fill-opacity="0.18"/>
+        <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3v12" /><path d="M18 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" /><path d="M6 21a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" /><path d="M18 9a9 9 0 0 1-9 9" /></svg></g>
+      </g>
+      <g transform="translate(240, 36)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
+
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">3,812</text>
+      <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Commits</text>
+
+      <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
+
+      
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Leetcode</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">496</text>
+    
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">nvim</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">277</text>
+    
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Javascript-30Days</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">187</text>
+    
+    </g>
+  
+    <g transform="translate(340, 28)">
+      <rect width="296" height="460" rx="24" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 28)">
+        <rect width="56" height="56" rx="14" fill="#facc15" fill-opacity="0.18"/>
+        <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" /></svg></g>
+      </g>
+      
+
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">795</text>
+      <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Stars</text>
+
+      <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
+
+      
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Rustlens</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 157</text>
+    
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Leetcode-Journal</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 26</text>
+    
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Prodigy-InfoTech</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 25</text>
+    
+    </g>
+  
+    <g transform="translate(652, 28)">
+      <rect width="296" height="460" rx="24" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 28)">
+        <rect width="56" height="56" rx="14" fill="#3b82f6" fill-opacity="0.18"/>
+        <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6" /><path d="M8 6l-6 6 6 6" /></svg></g>
+      </g>
+
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">20</text>
+      <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Languages Used</text>
+
+      <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
+
+      <g transform="translate(32, 240)">
+      <g transform="translate(0, 0)">
+        <rect width="163" height="30" rx="8" fill="#172033" stroke="#DA5B0B" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="81.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#DA5B0B">Jupyter Notebook</text>
+      </g>
+    
+      <g transform="translate(0, 38)">
+        <rect width="62" height="30" rx="8" fill="#172033" stroke="#e34c26" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="31" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#e34c26">HTML</text>
+      </g>
+    
+      <g transform="translate(70, 38)">
+        <rect width="112" height="30" rx="8" fill="#172033" stroke="#3178c6" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="56" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#3178c6">TypeScript</text>
+      </g>
+    
+      <g transform="translate(0, 76)">
+        <rect width="79" height="30" rx="8" fill="#172033" stroke="#3572A5" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="39.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#3572A5">Python</text>
+      </g>
+    
+      <g transform="translate(87, 76)">
+        <rect width="62" height="30" rx="8" fill="#172033" stroke="#b07219" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="31" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#b07219">Java</text>
+      </g>
+    
+      <g transform="translate(157, 76)">
+        <rect width="62" height="30" rx="8" fill="#172033" stroke="#dea584" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="31" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#dea584">Rust</text>
+      </g>
+    
+      <g transform="translate(0, 114)">
+        <rect width="112" height="30" rx="8" fill="#172033" stroke="#f1e05a" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="56" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#f1e05a">JavaScript</text>
+      </g>
+    
+      <g transform="translate(120, 114)">
+        <rect width="54" height="30" rx="8" fill="#172033" stroke="#663399" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#663399">CSS</text>
+      </g>
+    
+      <g transform="translate(0, 152)">
+        <rect width="54" height="30" rx="8" fill="#172033" stroke="#6b7280" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#6b7280">+12</text>
+      </g>
+    </g>
+    </g>
+  
+    <g transform="translate(964, 28)">
+      <rect width="296" height="460" rx="24" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 28)">
+        <rect width="56" height="56" rx="14" fill="#a855f7" fill-opacity="0.18"/>
+        <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h18" /><path d="M3 8v11a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8" /><path d="M3 8V6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2" /><path d="M8 3v4" /><path d="M16 3v4" /></svg></g>
+      </g>
+      
+
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">124 days</text>
+      <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Avg Lifespan</text>
+
+      <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
+
+      
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">github-aura</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">457d</text>
+    
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">copilot-vscode-co…</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">424d</text>
+    
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">tweet-craft</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">422d</text>
+    
+    </g>
+  
+    <g transform="translate(1276, 28)">
+      <rect width="296" height="460" rx="24" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 28)">
+        <rect width="56" height="56" rx="14" fill="#60a5fa" fill-opacity="0.18"/>
+        <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#60a5fa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
+      </g>
+      
+
+      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">99 | 20</text>
+      <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Public | Private</text>
+
+      <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
+
+      
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Owned</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">119</text>
+    
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Forks of others</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">62</text>
+    
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Forks received</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">71</text>
+    
+    </g>
+  
+  
+    <g transform="translate(28, 504)">
+      <rect width="374" height="180" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h18" /><path d="M3 8v11a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8" /><path d="M3 8V6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v2" /><path d="M8 3v4" /><path d="M16 3v4" /></svg></g>
+      <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Your oldest project</text>
+
+      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">C_coding</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 8/26/2023</text>
+    </g>
+  
+    <g transform="translate(418, 504)">
+      <rect width="374" height="180" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" /></svg></g>
+      <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Most active project</text>
+
+      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">Leetcode</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">496 commits</text>
+    </g>
+  
+    <g transform="translate(808, 504)">
+      <rect width="374" height="180" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+      <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h7l-1 8 10-12h-7l1-8z" /></svg></g>
+      <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Latest project</text>
+
+      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">DeepRead</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 5/24/2026</text>
+    </g>
+  
+    <g transform="translate(1198, 504)">
+      <rect width="374" height="180" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+
+      <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4a2 2 0 1 1 0-4h2" /><path d="M18 9h2a2 2 0 1 0 0-4h-2" /><path d="M6 5h12v6a6 6 0 1 1-12 0V5z" /><path d="M9 21h6" /><path d="M12 15v6" /></svg></g>
+      <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Your coding persona</text>
+
+      <g transform="translate(28, 70)"><svg width="64" height="64" viewBox="0 0 24 24" fill="#facc1533" stroke="#facc15" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" /></svg></g>
+
+      <text x="116" y="108" class="gb-display" font-size="22" fill="#ffffff">Open Source Star</text>
+      <text x="116" y="152" class="gb-text" font-size="20" fill="#9ca3af">Your work is loved!</text>
+    </g>
+  
+  
+    <g transform="translate(28, 700)">
+      <rect width="374" height="172" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+
+      <g transform="translate(28, 58)">
+        <rect width="56" height="56" rx="14" fill="#fb923c" fill-opacity="0.18"/>
+        <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fb923c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z" /></svg></g>
+      </g>
+
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">3 years</text>
+      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">of coding history</text>
+    </g>
+  
+    <g transform="translate(418, 700)">
+      <rect width="374" height="172" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+
+      <g transform="translate(28, 58)">
+        <rect width="56" height="56" rx="14" fill="#06b6d4" fill-opacity="0.18"/>
+        <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z" /><path d="M12 6v6l4 2" /></svg></g>
+      </g>
+
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">21</text>
+      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">avg commits per repo</text>
+    </g>
+  
+    <g transform="translate(808, 700)">
+      <rect width="374" height="172" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+
+      <g transform="translate(28, 58)">
+        <rect width="56" height="56" rx="14" fill="#facc15" fill-opacity="0.18"/>
+        <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3v6" /><path d="M18 3v6" /><path d="M12 21v-6" /><path d="M6 9a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3" /><path d="M6 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M18 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M12 21a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /></svg></g>
+      </g>
+
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">71</text>
+      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">forks received</text>
+    </g>
+  
+    <g transform="translate(1198, 700)">
+      <rect width="374" height="172" rx="22" fill="#11161f" stroke="#1c2230" stroke-width="1.5"/>
+
+      <g transform="translate(28, 58)">
+        <rect width="56" height="56" rx="14" fill="#ef4444" fill-opacity="0.18"/>
+        <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6" /><path d="M8 6l-6 6 6 6" /></svg></g>
+      </g>
+
+      <text x="100" y="90" class="gb-display" font-size="26" fill="#ffffff">Jupyter Notebook</text>
+      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 6 repos</text>
+    </g>
+  
+  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 320 followers · 158 following · best year: 2024 (1,661 commits) · updated 2026-05-28 05:05 UTC</text>
+</svg>
