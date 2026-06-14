@@ -16,7 +16,7 @@
       </g>
       <g transform="translate(240, 36)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">3,883</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">3,895</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Commits</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -26,7 +26,7 @@
       <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">496</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">nvim</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">285</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">290</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Javascript-30Days</text>
       <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">187</text>
@@ -41,7 +41,7 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">799</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">801</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Stars</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -126,7 +126,7 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">124 days</text>
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">123 days</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Avg Lifespan</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -151,14 +151,14 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">99 | 20</text>
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">100 | 20</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Public | Private</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Owned</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">119</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">120</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Forks of others</text>
       <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">62</text>
@@ -192,8 +192,8 @@
       <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h7l-1 8 10-12h-7l1-8z" /></svg></g>
       <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Latest project</text>
 
-      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">DeepRead</text>
-      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 5/24/2026</text>
+      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">dev-publish</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 6/8/2026</text>
     </g>
   
     <g transform="translate(1198, 504)">
@@ -257,5 +257,5 @@
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 6 repos</text>
     </g>
   
-  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 323 followers · 159 following · best year: 2024 (1,659 commits) · updated 2026-06-07 08:41 UTC</text>
+  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 324 followers · 159 following · best year: 2024 (1,649 commits) · updated 2026-06-14 08:58 UTC</text>
 </svg>
