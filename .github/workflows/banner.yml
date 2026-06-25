@@ -13,10 +13,10 @@ jobs:
       - uses: yashksaini-coder/GitBanner@v1
         with:
           github-token: ${{ secrets.BANNER_TOKEN }}
-          username: yashksaini-coder
+          username: ${{ github.repository_owner }}
           output-path: ./assets/gitbanner
           format: both
           theme: dark
-          include-private: false
+          include-private: true
           commit: true
           commit-message: "chore: refresh GitBanner stats"
