@@ -44,12 +44,12 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #10 The Power of the Zero-Commit Week: Stepping Back to Move Faster](https://dev.to/yashksaini/dev-log-10-the-power-of-the-zero-commit-week-stepping-back-to-move-faster-1e5h)
+- [Dev log #9 Hardening Kademlia DHT and automating the Neovim grind](https://dev.to/yashksaini/dev-log-9-hardening-kademlia-dht-and-automating-the-neovim-grind-43f3)
+- [Dev log #8 Hardening the Orchestrator: A Week of Making dev-publish Resilient](https://dev.to/yashksaini/dev-log-8-hardening-the-orchestrator-a-week-of-making-dev-publish-resilient-14lh)
 - [Dev log #7 Reviving DevNotion: 10,000 Lines, Multi-LLM Support, and the Road to v2.1](https://dev.to/yashksaini/dev-log-1-reviving-devnotion-10000-lines-multi-llm-support-and-the-road-to-v21-47hl)
 - [I Revived DevNotion &lpar;multi agent blog workflow&rpar; — And Finally Perfected it](https://dev.to/yashksaini/i-revived-devnotion-multi-agent-blog-workflow-and-finally-perfected-it-411p)
 - [From Rust CLI bug-hunting to a massive Portfolio overhaul](https://dev.to/yashksaini/from-rust-cli-bug-hunting-to-a-massive-portfolio-overhaul-7nn)
-- [Polishing the Rust CLI and Planning the Long Game](https://dev.to/yashksaini/polishing-the-rust-cli-and-planning-the-long-game-14mh)
-- [I built a local document Q&amp;A tool around Gemma 4 E4B&#39;s 128K context — five days, no RAG, no cloud](https://dev.to/yashksaini/i-built-a-local-document-qa-tool-around-gemma-4-e4bs-128k-context-five-days-no-rag-no-cloud-2e1k)
-- [I stress-tested Gemma 4 E4B&#39;s 128K context on a laptop GPU — recall is great, prefill is not](https://dev.to/yashksaini/i-stress-tested-gemma-4-e4bs-128k-context-on-a-laptop-gpu-recall-is-great-prefill-is-not-244i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
