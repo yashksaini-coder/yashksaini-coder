@@ -6,11 +6,11 @@
 
 </div>
 
-### Hi there 👋, I'm **Software Developer**!
+### Hi there 👋, I'm **Open Source Developer**!
 
-Hi, I'm an Engineer, building in public, share what I'm working on and learning. Currently learning about AI, ML, and more on low-level programming such as C, C++, and Rust.
+Building in public, share what I'm working on and learning. Currently learning about AI, ML, LLMs, RAG, System Design, DevOps, Web3, and more on low-level programming such as C, C++, and Rust.
 
-Where I'm not working, I'm reading books and writing blogs, building projects, learning, LLMs, RAG, System Design, DevOps, Web3 and Cloud.
+Where I'm not working, I'm reading books and writing blogs, playing games is my thing, Grinding the burnout away.
 
 ## [![wakatime](https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg)](https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a) | [Bounty 103$](https://x.com/yash_k_saini/status/1886322902573715709) | [Bounty 81$](https://x.com/0xCracked_dev/status/1951544807316201622) | [Bounty 7$](https://x.com/yash_k_saini/status/1883502087688073345) |
 
@@ -31,12 +31,6 @@ Where I'm not working, I'm reading books and writing blogs, building projects, l
 - Writing blogs on **[Dev.to](https://dev.to/@yashksaini)** about my experiences and learnings
 
 -->
-
-## 📦 Skills
-
----
-
-<img align='center' src="https://skillicons.dev/icons?i=git,github,githubactions,python,flask,fastapi,html,css,js,bash,nodejs,npm,pnpm,express,nextjs,react,vite,mongo,postgres,tailwind,ts,postman,prisma,supabase,vercel,docker">
 
 <br>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
