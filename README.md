@@ -38,12 +38,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #12 Hardening WebRTC and Polishing the UI: A Week of Networking and Refinement](https://dev.to/yashksaini/dev-log-12-hardening-webrtc-and-polishing-the-ui-a-week-of-networking-and-refinement-29m2)
+- [Adding WebRTC to py-libp2p: Two Runtimes, Three Specs, and One Unforgiving Private Slot](https://dev.to/yashksaini/adding-webrtc-to-py-libp2p-two-runtimes-three-specs-and-one-unforgiving-private-slot-3n22)
 - [Hardening Kademlia DHT: The Eclipse Attack That Record Signing Doesn&#39;t Stop](https://dev.to/yashksaini/hardening-kademlia-dht-the-eclipse-attack-that-record-signing-doesnt-stop-2k79)
 - [Shipping Docs, Rust Tooling, and a Week of Deep Reviews](https://dev.to/yashksaini/shipping-docs-rust-tooling-and-a-week-of-deep-reviews-9i6)
 - [Dev log #6 Networking Deep Dives and Scaling Docs: My 30k Line Week in OSS](https://dev.to/yashksaini/dev-log-6-networking-deep-dives-and-scaling-docs-my-30k-line-week-in-oss-3pbb)
 - [Dev log #11 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend](https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3)
-- [Dev log #10 The Power of the Zero-Commit Week: Stepping Back to Move Faster](https://dev.to/yashksaini/dev-log-10-the-power-of-the-zero-commit-week-stepping-back-to-move-faster-1e5h)
-- [Dev log #9 Hardening Kademlia DHT and automating the Neovim grind](https://dev.to/yashksaini/dev-log-9-hardening-kademlia-dht-and-automating-the-neovim-grind-43f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
