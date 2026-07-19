@@ -6,6 +6,7 @@
 
 </div>
 
+<!--
 ### Hi there 👋, I'm **Open Source Developer**!
 
 Building in public, share what I'm working on and learning. Currently learning about AI, ML, LLMs, RAG, System Design, DevOps, Web3, and more on low-level programming such as C, C++, and Rust.
@@ -21,7 +22,7 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 [![Social X.com](https://skillicons.dev/icons?i=twitter)](https://x.com/0xCracked_dev)
 [![Social Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yashksaini.codes/)
 
-<!--
+
 ## 📝 What I've done
 ---
 
