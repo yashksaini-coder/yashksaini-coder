@@ -16,7 +16,7 @@
       </g>
       <g transform="translate(240, 36)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">5,496</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">5,512</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Contributions</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -26,7 +26,7 @@
       <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">496</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">nvim</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">341</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">348</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
       <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">226</text>
@@ -41,14 +41,14 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">812</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">811</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Stars</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Rustlens</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 159</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 157</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Leetcode-Journal</text>
       <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">★ 26</text>
@@ -65,7 +65,7 @@
         <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6" /><path d="M8 6l-6 6 6 6" /></svg></g>
       </g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">22</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">23</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Languages Used</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -107,13 +107,13 @@
       </g>
     
       <g transform="translate(140, 114)">
-        <rect width="54" height="30" rx="8" fill="#172033" stroke="#663399" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#663399">CSS</text>
+        <rect width="54" height="30" rx="8" fill="#172033" stroke="#fcb32c" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#fcb32c">MDX</text>
       </g>
     
       <g transform="translate(0, 152)">
         <rect width="54" height="30" rx="8" fill="#172033" stroke="#6b7280" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#6b7280">+14</text>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#6b7280">+15</text>
       </g>
     </g>
     </g>
@@ -133,7 +133,7 @@
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">553d</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">560d</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">obsidian-vault</text>
       <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">468d</text>
@@ -151,17 +151,17 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">101 | 20</text>
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">102 | 20</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Public | Private</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Owned</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">121</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">122</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Forks of others</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">61</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">60</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Forks received</text>
       <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">74</text>
@@ -257,5 +257,5 @@
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 6 repos</text>
     </g>
   
-  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 323 followers · 161 following · best year: 2024 (1,649 commits) · updated 2026-07-12 07:53 UTC</text>
+  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 323 followers · 161 following · best year: 2024 (1,649 commits) · updated 2026-07-19 07:53 UTC</text>
 </svg>
