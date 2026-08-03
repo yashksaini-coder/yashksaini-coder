@@ -16,20 +16,20 @@
       </g>
       <g transform="translate(240, 36)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">5,577</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">5,428</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Contributions</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
-      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Leetcode</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">496</text>
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">nvim</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">377</text>
     
-      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">nvim</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">377</text>
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">236</text>
     
-      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
-      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">236</text>
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Javascript-30Days</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">187</text>
     
     </g>
   
@@ -41,7 +41,7 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">813</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">796</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Stars</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -97,18 +97,18 @@
       </g>
     
       <g transform="translate(0, 114)">
-        <rect width="62" height="30" rx="8" fill="#172033" stroke="#b07219" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="31" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#b07219">Java</text>
-      </g>
-    
-      <g transform="translate(70, 114)">
         <rect width="62" height="30" rx="8" fill="#172033" stroke="#dea584" stroke-width="1" stroke-opacity="0.4"/>
         <text x="31" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#dea584">Rust</text>
       </g>
     
-      <g transform="translate(140, 114)">
+      <g transform="translate(70, 114)">
         <rect width="54" height="30" rx="8" fill="#172033" stroke="#fcb32c" stroke-width="1" stroke-opacity="0.4"/>
         <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#fcb32c">MDX</text>
+      </g>
+    
+      <g transform="translate(132, 114)">
+        <rect width="54" height="30" rx="8" fill="#172033" stroke="#663399" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#663399">CSS</text>
       </g>
     
       <g transform="translate(0, 152)">
@@ -126,20 +126,20 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">121 days</text>
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">122 days</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Avg Lifespan</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
-      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">575d</text>
+      <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">github-aura</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">595d</text>
     
-      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">obsidian-vault</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">468d</text>
+      <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">portfolio</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">575d</text>
     
-      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">github-aura</text>
-      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">457d</text>
+      <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">obsidian-vault</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">468d</text>
     
     </g>
   
@@ -151,20 +151,20 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">102 | 20</text>
+      <text x="32" y="148" class="gb-display" font-size="48" fill="#ffffff">101 | 20</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Public | Private</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Owned</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">122</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">121</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Forks of others</text>
       <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">60</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Forks received</text>
-      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">69</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">68</text>
     
     </g>
   
@@ -183,8 +183,8 @@
       <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" /></svg></g>
       <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Most active project</text>
 
-      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">Leetcode</text>
-      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">496 commits</text>
+      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">nvim</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">377 commits</text>
     </g>
   
     <g transform="translate(808, 504)">
@@ -229,7 +229,7 @@
         <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z" /><path d="M12 6v6l4 2" /></svg></g>
       </g>
 
-      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">21</text>
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">18</text>
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">avg commits per repo</text>
     </g>
   
@@ -241,7 +241,7 @@
         <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3v6" /><path d="M18 3v6" /><path d="M12 21v-6" /><path d="M6 9a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3" /><path d="M6 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M18 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M12 21a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /></svg></g>
       </g>
 
-      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">69</text>
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">68</text>
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">forks received</text>
     </g>
   
@@ -257,5 +257,5 @@
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 6 repos</text>
     </g>
   
-  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 326 followers · 162 following · best year: 2024 (1,649 commits) · updated 2026-08-02 07:58 UTC</text>
+  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/yashksaini-coder · 326 followers · 163 following · best year: 2026 (1,575 commits) · updated 2026-08-03 03:02 UTC</text>
 </svg>
