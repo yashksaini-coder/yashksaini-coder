@@ -1,7 +1,9 @@
 name: Refresh GitBanner
 on:
   schedule:
-    - cron: "0 6 * * 0" # every Sunday at 06:00 UTC
+    # Daily at an off-peak odd minute — GitHub delays crons scheduled at
+    # popular times. The card only commits when the numbers actually changed.
+    - cron: "47 2 * * *"
   workflow_dispatch:
 jobs:
   refresh:
@@ -10,7 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yashksaini-coder/GitBanner@v1
+      - uses: yashksaini-coder/GitBanner@v1.2.0
         with:
           github-token: ${{ secrets.BANNER_TOKEN }}
           username: ${{ github.repository_owner }}
