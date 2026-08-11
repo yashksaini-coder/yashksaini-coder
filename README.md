@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Open Source Developer & Polygot (trying to be)
+# 👨‍💻 Telling the machines what to do
+
 
 ![GitBanner](./assets/gitbanner.png)
 
