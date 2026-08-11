@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Software Developer & AI Enthusiast
+# 👨‍💻 Open Source Developer & Polygot (trying to be)
 
 ![GitBanner](./assets/gitbanner.png)
 
