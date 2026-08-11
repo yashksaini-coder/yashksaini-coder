@@ -39,12 +39,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #16 Typographic Hierarchy and the Great Obsidian Purge](https://dev.to/yashksaini/dev-log-16-typographic-hierarchy-and-the-great-obsidian-purge-3h5e)
 - [Dev log #15 Refining the Craft: A week of Neovim UI hacking and portfolio architecture](https://dev.to/yashksaini/dev-log-15-refining-the-craft-a-week-of-neovim-ui-hacking-and-portfolio-architecture-45a2)
 - [Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests](https://dev.to/yashksaini/dev-log-14-hardening-the-dht-against-eclipse-attacks-and-the-endless-battle-with-flaky-p2p-tests-593j)
 - [Dev log #13 Hardening Kademlia: A week of p2p security architecture and Neovim maintenance](https://dev.to/yashksaini/dev-log-1-hardening-kademlia-a-week-of-p2p-security-architecture-and-neovim-maintenance-12jo)
 - [Dev log #12 Hardening WebRTC and Polishing the UI: A Week of Networking and Refinement](https://dev.to/yashksaini/dev-log-12-hardening-webrtc-and-polishing-the-ui-a-week-of-networking-and-refinement-29m2)
 - [Adding WebRTC to py-libp2p: Two Runtimes, Three Specs, and One Unforgiving Private Slot](https://dev.to/yashksaini/adding-webrtc-to-py-libp2p-two-runtimes-three-specs-and-one-unforgiving-private-slot-3n22)
-- [Hardening Kademlia DHT: The Eclipse Attack That Record Signing Doesn&#39;t Stop](https://dev.to/yashksaini/hardening-kademlia-dht-the-eclipse-attack-that-record-signing-doesnt-stop-2k79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
