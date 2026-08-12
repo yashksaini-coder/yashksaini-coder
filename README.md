@@ -72,7 +72,6 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 
 <!-- <img src="./assets/stats.png" alt="yashksaini-coder" /> -->
 
-<img src="./assets/yashksaini-coder-space-shooter.gif" alt="yashksaini-coder" />
 <!-- sponsors -->
 
 <!-- <div align="center">
