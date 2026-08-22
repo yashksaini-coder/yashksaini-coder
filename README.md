@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 👨‍💻 Telling the machines what to do
@@ -37,7 +39,7 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <br>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-<!-- ## 📚 Latest Blog Posts -->
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [One rented /24 could eclipse a Kademlia node. Now it takes ten.](https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p)
@@ -79,4 +81,3 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
   <a href="https://buymeacoffee.com/yashksaini"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
   </a>
 </div> -->
-
