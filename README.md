@@ -40,12 +40,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
 - [One rented /24 could eclipse a Kademlia node. Now it takes ten.](https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p)
 - [The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p](https://dev.to/yashksaini/the-sdp-endpoint-that-trusted-its-callers-fixing-a-memory-amplification-dos-in-py-libp2p-3g2e)
 - [The test was green. Every real connection would have failed.](https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37)
 - [Dev log #17 From 16-bit TUIs to p2p Hardening: A 227-Commit Week](https://dev.to/yashksaini/dev-log-17-from-16-bit-tuis-to-p2p-hardening-a-227-commit-week-1cbg)
 - [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [Dev log #16 Typographic Hierarchy and the Great Obsidian Purge](https://dev.to/yashksaini/dev-log-16-typographic-hierarchy-and-the-great-obsidian-purge-3h5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
