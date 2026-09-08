@@ -40,12 +40,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The receipt should come from the person who received it](https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog)
+- [Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)
 - [Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault](https://dev.to/yashksaini/dev-log-19-webrtc-v2-flows-agentic-orchestration-and-a-perfectly-synced-vault-5egd)
 - [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
 - [One rented /24 could eclipse a Kademlia node. Now it takes ten.](https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p)
 - [The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p](https://dev.to/yashksaini/the-sdp-endpoint-that-trusted-its-callers-fixing-a-memory-amplification-dos-in-py-libp2p-3g2e)
-- [The test was green. Every real connection would have failed.](https://dev.to/yashksaini/the-test-was-green-every-real-connection-would-have-failed-3e37)
-- [Dev log #17 From 16-bit TUIs to p2p Hardening: A 227-Commit Week](https://dev.to/yashksaini/dev-log-17-from-16-bit-tuis-to-p2p-hardening-a-227-commit-week-1cbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
