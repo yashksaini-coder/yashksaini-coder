@@ -40,12 +40,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code](https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i)
 - [Dev log #21 Hardening WebRTC-Direct and solving SCM leaks](https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k)
 - [The receipt should come from the person who received it](https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog)
 - [Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)
 - [Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault](https://dev.to/yashksaini/dev-log-19-webrtc-v2-flows-agentic-orchestration-and-a-perfectly-synced-vault-5egd)
 - [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
-- [One rented /24 could eclipse a Kademlia node. Now it takes ten.](https://dev.to/yashksaini/one-rented-24-could-eclipse-a-kademlia-node-now-it-takes-ten-121p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
