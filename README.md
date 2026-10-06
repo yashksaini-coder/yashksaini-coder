@@ -40,12 +40,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built My Friend a Mock Interviewer That Read His Rust Code](https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif)
+- [Dev log #24 Hardening the p2p stack: From flaky tests to WebSocket fixes](https://dev.to/yashksaini/dev-log-24-hardening-the-p2p-stack-from-flaky-tests-to-websocket-fixes-55f)
 - [Dev log #23 Polishing the stack: Diagrams, async shutdowns, and a whole lot of code reviews](https://dev.to/yashksaini/dev-log-polishing-the-stack-diagrams-async-shutdowns-and-a-whole-lot-of-code-reviews-162b)
 - [Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code](https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i)
 - [Dev log #21 Hardening WebRTC-Direct and solving SCM leaks](https://dev.to/yashksaini/dev-log-hardening-webrtc-direct-and-solving-scm-leaks-i5k)
 - [The receipt should come from the person who received it](https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog)
-- [Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)
-- [Dev log #19 WebRTC v2 flows, agentic orchestration, and a perfectly synced vault](https://dev.to/yashksaini/dev-log-19-webrtc-v2-flows-agentic-orchestration-and-a-perfectly-synced-vault-5egd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
