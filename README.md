@@ -1,3 +1,4 @@
+<!-- 
 <div align="center">
 
 # 👨‍💻 Telling the machines what to do
@@ -7,7 +8,7 @@
 
 </div>
 
-<!--
+
 ### Hi there 👋, I'm **Open Source Developer**!
 
 Building in public, share what I'm working on and learning. Currently learning about AI, ML, LLMs, RAG, System Design, DevOps, Web3, and more on low-level programming such as C, C++, and Rust.
