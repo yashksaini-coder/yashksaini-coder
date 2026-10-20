@@ -18,3 +18,4 @@ jobs:
                 feed_list: "https://dev.to/feed/yashksaini" 
                 commit_message: "docs: update latest blog posts"
                 committer_username: yashksaini-coder
+                committer_email: yashksaini-coder@users.noreply.github.com
