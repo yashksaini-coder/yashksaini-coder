@@ -41,12 +41,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET](https://dev.to/yashksaini/dev-log-deep-in-the-review-queue-hardening-libp2p-across-python-and-net-357l)
 - [Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets](https://dev.to/yashksaini/dev-log-26-deep-in-the-libp2p-weeds-fixing-dht-prefixes-and-yamux-resets-315n)
 - [Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)
 - [I Built My Friend a Mock Interviewer That Read His Rust Code](https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif)
 - [Dev log #24 Hardening the p2p stack: From flaky tests to WebSocket fixes](https://dev.to/yashksaini/dev-log-24-hardening-the-p2p-stack-from-flaky-tests-to-websocket-fixes-55f)
 - [Dev log #23 Polishing the stack: Diagrams, async shutdowns, and a whole lot of code reviews](https://dev.to/yashksaini/dev-log-polishing-the-stack-diagrams-async-shutdowns-and-a-whole-lot-of-code-reviews-162b)
-- [Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code](https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
