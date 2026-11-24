@@ -41,12 +41,12 @@ Where I'm not working, I'm reading books and writing blogs, playing games is my 
 <!-- ## 📚 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Glint: type and speak with your eyebrows and your breath](https://dev.to/yashksaini/glint-type-and-speak-with-your-eyebrows-and-your-breath-569o)
 - [Devcon 8 Mumbai: Four Days at Ethereum&#39;s Biggest Builder Gathering](https://dev.to/yashksaini/devcon-8-mumbai-four-days-at-ethereums-biggest-builder-gathering-3jn)
 - [Dev log # 30 Plumbing the depths of libp2p: A multi-language maintenance week](https://dev.to/yashksaini/dev-log-30-plumbing-the-depths-of-libp2p-a-multi-language-maintenance-week-356b)
 - [Dev log # 29 The Review Marathon: Hardening libp2p across C# and Python](https://dev.to/yashksaini/dev-log-the-review-marathon-hardening-libp2p-across-c-and-python-2f7i)
 - [Dev Log # 28 A Quiet Week on the OSS Front](https://dev.to/yashksaini/attending-devcon-8-mumbai-a-quiet-week-on-the-oss-front-3kai)
 - [What I learned building wfreq](https://dev.to/yashksaini/what-i-learned-building-wfreq-52f5)
-- [Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET](https://dev.to/yashksaini/dev-log-deep-in-the-review-queue-hardening-libp2p-across-python-and-net-357l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Youtube video sections -->
